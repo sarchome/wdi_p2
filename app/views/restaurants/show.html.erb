@@ -1,0 +1,25 @@
+<div class="container">
+    <div class='jumbotron'>
+        <h2><%=@restaurant.name%></h2>
+        <p><%=@restaurant.address%></p>
+        <p><%=@restaurant.city%>
+        <%=@restaurant.state%>
+        <%=@restaurant.zip%></p>
+        <p><%=@restaurant.phone%></p>
+        <p><%=@restaurant.email%></p>
+        <%=link_to 'menu', menu_path%>
+    </div>
+
+
+
+    <div class="row">
+        <div>
+        <%=link_to "All locations", restaurants_path%>
+        </div>
+    </div>
+
+
+
+</div>
+</div>
+</div>

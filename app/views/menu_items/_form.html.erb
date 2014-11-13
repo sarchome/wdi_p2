@@ -1,0 +1,47 @@
+<div class="container">
+  <div class="row">
+    <div class="col-lg-8 col-lg-offset-2" style='background-color:white;opacity:.7'>
+      <div class="form-horizontal">
+      <%= form_for(@menu_item, class: 'form') do |f| %>
+        <div class='field form-group'>
+          <%= f.label(:item, "Item name") %>
+           <div class="col-sm-12">
+          <%= f.text_field(:item) %>
+          </div>
+        </div>
+        <div class='field form-group'>
+          <%= f.label(:price, "Price") %>
+          <div class="col-sm-12">
+          <%= f.number_field(:price, :class => 'text_field', :step => 0.01) %>
+          </div>
+        </div>
+        <div class='field form-group'>
+          <%= f.label(:category, "Category")%>
+          <div class="col-sm-12">
+          <%= f.text_field(:category)%>
+          </div>
+        </div>
+        <div class='field form-group'>
+          <%= f.label(:description, "Description") %>
+          <div class="col-sm-12">
+          <%= f.text_field(:description) %>
+          </div>
+        </div>
+        <div class='field form-group'>
+          <%= f.label(:restaurant_ids, "Locations") %>
+          <div class="col-sm-12">
+          <%= f.collection_select(:restaurant_ids, Restaurant.all, :id, :city, {}, {multiple: true}) %>
+          </div>
+        </div>
+
+
+        <div class='actions'>
+          <%= f.submit%>
+        </div>
+      <%end%>
+      </div>
+    </div>
+  </div>
+</div>
+
+

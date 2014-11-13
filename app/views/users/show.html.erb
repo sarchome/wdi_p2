@@ -1,0 +1,26 @@
+<h2>users#show</h2>
+<h2>show one user</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>Email</th>
+      <th></th>
+      <th></th>
+
+    </tr>
+  </thead>
+
+  <tbody>
+      <tr>
+        <td><%= @user.email %></td>
+        <td></td>
+        <td></td>
+      </tr>
+  </tbody>
+</table>
+
+<br>
+
+<%= link_to 'Edit', edit_user_path(:id => @user.id) %>
+

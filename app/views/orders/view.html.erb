@@ -1,0 +1,22 @@
+<div class='container'>
+<div class="jumbotron">
+<div>Review Order</div>
+
+<%=@order.restaurant.city%>
+
+<% current_order = @order.order_menu_items %>
+<% current_order.each do |x| %>
+    <span><%= x.menu_item.item %>
+    <%= x.menu_item.price %>
+    <%= x.quantity %></span>
+<%end%>
+
+<div><%= number_to_currency(@order.total) %></div>
+
+<%=form_tag(submit_order_path, method: "post") do %>
+<div class='actions'>
+    <%= submit_tag("Complete Order") %>
+</div>
+<% end %>
+</div>
+</div>

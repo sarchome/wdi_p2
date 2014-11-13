@@ -1,0 +1,812 @@
+{:description=>"Slow braised short rib, creamy mashed potatoes, sautéed baby spinach, toasted garlic, short rib jus, salsa verde", :photo=>"B2C7Hr8CAAEotlF.jpg"}
+{:description=>"Smoked Pork Loin with Herb Spaetzel, Swiss Chard, Guanciale &amp; Dijon Burre Blanc", :photo=>"B2CyLajCYAA8dY1.jpg"}
+{:description=>"Bacon and top sirloin ragout, crispy blue corn polenta, organic egg and spinach cup, queso fresco.", :photo=>"B2CqpT2CMAEb8SX.jpg"}
+{:description=>"house made maple glazed bacon and candied walnut doughnut", :photo=>"B2BjQfjCYAAQmSt.jpg"}
+{:description=>"albacore poke salad, avocado cucumber &amp; spicy poke sauce", :photo=>"B2BahejCMAADDU1.jpg"}
+{:description=>"Special:Big Salad of Crispy Bacon,62-Degree Poached Egg,Pickled Onion,Kale&amp;Spinach,Feta,Croutons,Cabernet Vin.", :photo=>"B2BYX5bIUAAXeAp.jpg"}
+{:description=>"Housemade tagliatelle pasta, beef $ pork bolognese, sautéed baby kale, Parmesan, parsley", :photo=>"B196D-YIAAAhgWU.jpg"}
+{:description=>"maple glazed mini doughnuts with bacon", :photo=>"B19v18lCIAAYlnT.jpg"}
+{:description=>"shrimp bacon &amp; Swiss chard risotto", :photo=>"B19vjyzCcAA5GsS.jpg"}
+{:description=>"Pork Loin Roulade. Squash, Bacon, Caramelized onions. Sweet Potato Mash. Brown Sugar Glaze. Greens. Sherry Vin", :photo=>"B19nLj8IEAEg_qd.jpg"}
+{:description=>"Braised beef sirloin, kohlrabi puree, fall vegetables, soft boiled egg.", :photo=>"B19lHR6CEAAUQs3.jpg"}
+{:description=>"Tender Greens w/ P.Balistreri Guanciale, Roasted Grapes, Pepitas, Candied Walnuts, Pickled Onions,Goat Cheese", :photo=>"B18ZPj2CQAA285D.jpg"}
+{:description=>"House Made Meatloaf Sandwich,BBQ Aioli,Crispy Shallots,Cheddar Cheese,Tender Greens,Green Apple,Cabernet Vin", :photo=>"B18N2XMIYAAibwb.jpg"}
+{:description=>"Grilled Local Yellow Tail on tender greens with arugula, beets, olives, green beans, lemon vinaigrette", :photo=>"B18MesrCQAAU6jx.jpg"}
+{:description=>"pan roasted ling cod, cauliflower purée, Apple cider vinegar braised Brussel sprouts, bacon", :photo=>"B14pO_-IMAA3AhR.jpg"}
+{:description=>"Housemade meatloaf, sunchoke puree, organic greens salad, persimmon, pomegranate arils, sherry vin.", :photo=>"B14mGJQCQAAXjFN.jpg"}
+{:description=>"Pan seared rainbow trout, roasted Tahitian squash purée, bulgar wheat, toasted almonds, pickled golden raisins.", :photo=>"B14Z0iaCIAAlpaC.jpg"}
+{:description=>"Grilled rock cod,fall veggies&amp; lentils,celery puree,braised kale,pine nut relish &amp;salad of frisee,shaved fennel", :photo=>"B13EZ32IUAEBCVq.jpg"}
+{:description=>"Braised Beef Sandwich with Alesmith Nut Brown Onion Rings, House Green Peppercorn Steak Sauce &amp; Aioli", :photo=>"B13EK2SCAAAGOp1.jpg"}
+{:description=>"Black Garlic Adobo, Braised Pork Belly, Soy, Sonoma Vinegar, Jasmine Rice, Cilantro, Scallions", :photo=>"B13CCQiCEAAnLeF.jpg"}
+{:description=>"Green Chicken Pozole, spinach, green peppers, onion, tomatillo, homny, tender greens, pomegranate, lemon vin", :photo=>"B13AYAtCQAA0oJ_.jpg"}
+{:description=>"Grilled Ono Sandwich, Hillview Farms Kale Slaw, Pickled Fennel, Side Arugula Salad, Hazelnuts", :photo=>"B12_qPZCMAAPVNV.jpg"}
+{:description=>"Fall Veggie Chicken Pot Pie Stew; Brussels Sprouts, Parsnips, Butternut Squash, Sweet Potato Velouté", :photo=>"B1zY5COIcAAGaxf.jpg"}
+{:description=>"Hanger Steak. Sweet Potato Fries. Chimchurri Sauce, Ketchup. Greens. Shaved Persimmon. Sherry Vinaigrette.", :photo=>"B1zVKtsIIAAi53D.jpg"}
+{:description=>"Grilled beef meatloaf, Yukon gold mashed potatoes, mushroom sauce, spinach salad", :photo=>"B1zScxLIgAABiNn.jpg"}
+{:description=>"Sirloin burger, basil aioli, crispy balistreri guanciale, caramelized onions and peppers, tillamook cheddar.", :photo=>"B1zOmukIEAAKzG2.jpg"}
+{:description=>"smoked local yellowtail and garganelli pasta, San marzano tomatoes, and Scarborough farms spinach", :photo=>"B1zM9EUIAAAs92Y.jpg"}
+{:description=>"Special Side of Persimmons, Pomegranates, Shaved Manchego, Granola, Arugula, Honey Sherry Vinaigrette", :photo=>"B1x7kHjIgAAn9m-.jpg"}
+{:description=>"Chinese 5 Spice Smoked Pork Belly Bao Buns,Pickled Asian Vegetables, Green Onions,Cilantro. Asian Green Salad", :photo=>"B1x7Jj0IYAIskWN.jpg"}
+{:description=>"beef empanadas w/ avocado creme and salad of tender greens pomegranate, radish &amp; queso fresco", :photo=>"B1x6wWTIcAA-ZfC.jpg"}
+{:description=>"Teriyaki Pork Banh Mi Sandwich cilantro Jalepeno Pickled Carrots &amp; Daikon salad of Tender Greens &amp; Persimmon", :photo=>"B1x6c3BIUAEMSaJ.jpg"}
+{:description=>"Grilled Rainbow Trout, Lentils de Puy, Pickled Shallots, Garlic, Arugula, Shaved Fennel, Sherry Vinaigrette", :photo=>"B1x0YSUIAAAUw-5.jpg"}
+{:description=>"Housemade Tagliatelle Pork &amp; Beef Meatballs: San Marzano Tomato Sauce, Parsley, Parmesan, Baby Kale Side Salad.", :photo=>"B1uRoW3IAAA6AgI.jpg"}
+{:description=>"Butternut Gnocchi. Bacon, Fennel, sautéed Onions. Arugula. Pomegranate Arils. Sherry Vinaigrette.", :photo=>"B1uQa_2CQAA97i-.jpg"}
+{:description=>"Savory Fall Veggie Bread Pudding Stuffed Acorn Squash, Tender Greens, Shaved Persimmon", :photo=>"B1uLkWsCYAAsrCY.jpg"}
+{:description=>"11 of the best chain restaurants around the world (yes, really)", :photo=>"B1ta_HsCEAASJmj.jpg"}
+{:description=>"Grilled Rainbow Trout, Herb Olive Caper Oil, Grain Mix...", :photo=>"B1tGEIRCcAAKAen.jpg"}
+{:description=>"Arugula, Butternut Squash, Pomegranate &amp; Red Onion", :photo=>"B1tBAzKCAAA7hmB.jpg"}
+{:description=>"House Onion Rings with Paprika Aioli", :photo=>"B1tAxakCcAA202O.jpg"}
+{:description=>"Shrimp and Grits!!", :photo=>"B1s4YMCCAAAH_R-.png"}
+{:description=>"special side: PL farms bean salad with walnut tarragon &amp; shallot", :photo=>"B1s0qQUCUAEkKii.jpg"}
+{:description=>"big salad of pBalisteri guanciale roasted persimmon pepitas hibiscus onion quinoa manchego &amp; sherry honey vin", :photo=>"B1s0e0PCEAE1eVk.jpg"}
+{:description=>"Smoked Brisket Sandwich, Sriracha Bbq Sauce, Garlic Aioli, Peppers, Kale Simple Salad", :photo=>"B1stYZhCMAAoZxg.jpg"}
+{:description=>"Housemade Fettucine Beef &amp; Pork Bolognese: San Marzano Tomato Sauce, Fresh Parsley, Baby Kale, Pecorino Sardo.", :photo=>"B1pV6glCAAA8PA4.jpg"}
+{:description=>"Fried Spanish Octopus, Wax Beans, Braised Fennel, Crispy Potatoes w/ a Parnip &amp; Curry Purée", :photo=>"B1pTkheCAAE9nz3.jpg"}
+{:description=>"Slow Cooked Smoked BBQ Pork Tacos, Granny Smith Apple Slaw, Organic Greens, Shaved Persimmon w/ Sherry Vin.", :photo=>"B1pIe2OIIAETWmA.jpg"}
+{:description=>"Housemade pappardelle carbonara pasta, house cured bacon &amp; spinach, butternut squash cream sauce, tender greens", :photo=>"B1o41PXCMAMb2eP.jpg"}
+{:description=>"chicken salad sandwich w/ apples &amp; butter lettuce// side salad of spinach, persimmon, pomegranate seeds, cab", :photo=>"B1oUIpbCYAEu7i1.jpg"}
+{:description=>"Pork Belly Bao Buns, Pickled Veg, Crushed Peanuts &amp; Cilantro, Greens, Radish, Chili-Lime Vin", :photo=>"B1nnJbxCcAA7yxH.jpg"}
+{:description=>"House made sweet potato Gnocchi with Brussels sprouts, sage brown butter, pomegranate, &amp; warm Swiss chard.", :photo=>"B1j4vJoCEAAO6Rp.jpg"}
+{:description=>"Spicy green curry with panko crusted tofu! With mushrooms, eggplant and sweet potato", :photo=>"B1jrplvCcAAwRzC.jpg"}
+{:description=>"Farro Onion Sousbise, Crispy Kale", :photo=>"B1jD_k5IUAAhxmr.jpg"}
+{:description=>"Nine Hour Texas Chili,macaroni pasta,cheddar cheese&amp;cilantro sour cream,salad of romaine hearts,lime dressing.", :photo=>"B1idI-QIAAA1o5k.jpg"}
+{:description=>"Grilled Coho Salmon, Pickled Red Onions, Pomegranate, Radish, Butter Lettuce, Sherry Vin", :photo=>"B1icERnCQAATpeT.jpg"}
+{:description=>"mushroom spring roll with persimmon sweet-sour sauce &amp; salad of tatsoi mizuna papaya peanut chili lime dressing", :photo=>"B1iT6veCMAAsWkb.jpg"}
+{:description=>"Housemade mixed mushroom ravioli, mascarpone, Parmesan, creamy mushroom sauce, pecorino sardo cheese", :photo=>"B1fBw0CIEAI6AKJ.jpg"}
+{:description=>"Slow Braised Pork Shanks Anson Mills Polenta, Tuscan Kale, Apple Chutney", :photo=>"B1e1-G-CYAI1bZr.jpg"}
+{:description=>"slow braised beef over mushroom risotto, spinach, balsamic vinaigrette, blue cheese and candied walnuts", :photo=>"B1euJ78CMAEYc92.jpg"}
+{:description=>"Japanese Style Beef Skewers, Frisée, Carrots, Chives, Tender Greens, Sesame Ginger Dressing", :photo=>"B1esYqLCAAA4Dvl.jpg"}
+{:description=>"Smoked Pork Belly Jalapeño Cheddar Grits Cranberry Orange BBQ Sauce ,Tender Greens Persimmons Cabernet Vin.", :photo=>"B1eqM8-CMAAxv_v.jpg"}
+{:description=>"House Made Chicken Enchiladas w/ Black Beans, Queso Fresco, Sour Cream, Cilantro &amp; Scallions", :photo=>"B1dcG6BCcAAZtXB.jpg"}
+{:description=>"Quinoa Pancakes,double smoked,brown sugar glazed bacon,honey poached quince&amp;marscapone cream,fresh cheese curds", :photo=>"B1dU1YuCEAEWgqj.jpg"}
+{:description=>"harvest salad: persimmons apple pomegranate walnut blue cheese kale balsamic vinaigrette", :photo=>"B1dLekZCcAEFLIJ.jpg"}
+{:description=>"Housemade fettucine pasta, Jidori chicken, chili peppers, scallions, cilantro, peanuts, garlic, Kung Pao sauce", :photo=>"B1ZsIIWIQAAIkHz.jpg"}
+{:description=>"Arugula Hazelnut Pesto Chicken Roulade w/ Sautéed Swiss Chard, Sweet Potato Purée &amp; Hazelnut Brown Butter", :photo=>"B1Zim7gCQAEiuUA.jpg"}
+{:description=>"black mussels with spicy green curry yellow wax beans fingerling potatoes rainbow carrots basil", :photo=>"B1ZKHgPCAAANPmg.jpg"}
+{:description=>"sandwhich of P. Balistreri Guanciale, farm fresh duck egg, avocado, wild arugula, and smoked paprika aioli.", :photo=>"B1YfGpPCQAA_Mdv.jpg"}
+{:description=>"crispy pork cheek chile verde tavos,pico de gallo,sour cream,lettuce,salad of tender greens", :photo=>"B1YJsF7IAAApr6K.jpg"}
+{:description=>"Special:Chicken Lettuce Wraps,Puffy Rice Noodles,Roasted Peanuts,Asian Mix,Shaved Carrots,Sesame Dressing", :photo=>"B1X9ByNCEAER4FY.jpg"}
+{:description=>"Panini of garlic rosemary pork loin, arugula, sweet mustard, fresh apples with butter lettuce, tarragon", :photo=>"B1X8_QnCQAAdjyw.jpg"}
+{:description=>"Special side: persimmons, goat cheese, arugula, balsamic reduction", :photo=>"B1X70POCYAA7eVM.jpg"}
+{:description=>"House made soyrizo tostadas with black bean salsa, queso fresco, cilantro, guacamole &amp; salsa verde.", :photo=>"B1UuU2CCEAAh48D.jpg"}
+{:description=>"9 Hour slow cooked Chili Served over Cassoulet beans, topped with sour cream, scallions and cheddar cheese", :photo=>"B1UcvnYIAAAo93E.jpg"}
+{:description=>"Housemade Butternut Squash Ravioli: Hazelnut Brown Butter Sauce, Pecorino Sardo Cheese, Arugula side salad.", :photo=>"B1UaQvLIgAA1CPI.jpg"}
+{:description=>"Braised Bacon, Ginger, Soy, Anise, Jasmine Rice, Mizuna, Tatsoi", :photo=>"B1UJmt7CMAA-fB5.jpg"}
+{:description=>"slow roasted garlic-rosemary pork loin heirloom squash purée Suzies farm cranberry beans arugula garlic", :photo=>"B1UDC0kCMAEix1R.jpg"}
+{:description=>"Happy Halloween from the crew at", :photo=>"B1TtBsoCMAAKrY-.jpg"}
+{:description=>"caramel apples!!", :photo=>"B1TsdeJCMAAn3Fb.jpg"}
+{:description=>"King Street Masquerade", :photo=>"B1S_NUxIMAAmiwT.jpg"}
+{:description=>"house soyrizo street tacos with black beans, guacamole, creme fraiche", :photo=>"B1S6KwCCEAA57w6.jpg"}
+{:description=>"Coriander Seared Albacore, Hillview Farms Crunchy Lettuces, Pickled Onions, Crispy Chickpeas, Sherry Vin", :photo=>"B1S1ST3IQAAT4eW.jpg"}
+{:description=>"grilled chicken wrap w/celery,golden raisins,almonds,salad of tender greens,sherry dressing,fingerling chips", :photo=>"B1SyR7GCUAAgGYk.jpg"}
+{:description=>"Grilled Pacific Ono, Sauce Veracruz, Butter Lettuce, Lime Dressing", :photo=>"B1Sw4hLCUAA0Q0r.jpg"}
+{:description=>"special side: Scarborough farms cardoon fries, sambal aioli, lemon zest, Parmesan and picked thyme", :photo=>"B1SvtmOCMAAQv2p.jpg"}
+{:description=>"Sandwich: Chicken-Apple Sausage, Coleslaw, Pickled Fennel &amp; Brown Ale Mustard, Kale, Pers, Sherry Vin", :photo=>"B1StnbgCEAAQZFI.jpg"}
+{:description=>"grilled local yellowtail salad, Suzies farm cranberry beans, red wine pickled onions and tender greens!", :photo=>"B1Sr2esCYAAnHM-.jpg"}
+{:description=>"salad of slow roasted pork belly, heirloom squash, apples, point Reyes blue, butter, creamy tarragon vin", :photo=>"B1SgLQVCUAAO1In.jpg"}
+{:description=>"Housemade pappardelle pasta, pork sugo, slow roasted tomato sauce, shaved pecorino", :photo=>"B1PV-c4IUAAwSOf.jpg"}
+{:description=>"Slow Braised Beef, Creamy Polenta, Sautéed Wax Beans, Crispy Shallots, Organic Baby Salad", :photo=>"B1POMTcCEAEf4r8.jpg"}
+{:description=>"Chicken Apple Sausage. Citrus Fennel Spaetzle. Garlic Dijon Cream Sauce. Greens. Pomegranate. Golden Balsamic", :photo=>"B1PHsUUIcAAxed5.jpg"}
+{:description=>"Moroccan Lamb Stew, Lentils, Chickpeas, Arugula, Fennel", :photo=>"B1PBlYPCQAAzyza.jpg"}
+{:description=>"maple glazed pork belly creamy polenta roasted apples cider reduction with tender greens blue cheese", :photo=>"B1O6sQTCcAAxnVj.jpg"}
+{:description=>"grilled polenta with gonestraw soft boiled egg, balsamic &amp; chive", :photo=>"B1NqkrlIYAIhtvn.jpg"}
+{:description=>"smoked Atlantic salmon on a potato pancake with dill creme fraiche, fried caper &amp; lemon", :photo=>"B1NqWMECMAA_71s.jpg"}
+{:description=>"Panko Fried Rockfish Sandwich, Aioli, Roasted Peppers, Kale Salad", :photo=>"B1Nn14jCQAAs_mX.jpg"}
+{:description=>"local yellowtail fish stew, Venus clam, octopus and mussels. Fingerling potatoes, herbs and sauce rouille!", :photo=>"B1NnGyzCUAA0dwy.jpg"}
+{:description=>"Beef Picadilllo Tacos w/ tomatillo salsa, caramelized onions and red peppers.", :photo=>"B1NgTUfCQAELPMJ.jpg"}
+{:description=>"butternut squash ravioli, mascarpone cheese, Parmesan, hazelnuts, pomegranate seeds, brown butter sauce", :photo=>"B1KJ8-_IIAI-i-h.jpg"}
+{:description=>"Pulled Chicken Tostadas, Avocado Crema, Sweet Chili Aioli, Cilantro &amp; Green Onions, Romaine Hearts Salad", :photo=>"B1KJWobIIAAM2HZ.jpg"}
+{:description=>"Mongolian BBQ Pork Drumettes. Asian Potato Salad. Greens, Shaved Persimmons. Sesame dressing.", :photo=>"B1J5IlhIUAA6lzz.jpg"}
+{:description=>"Grilled Rock Cod Cranberry Beans Swiss Chard Lemon &amp; Parsley Relish Arugula Pesto", :photo=>"B1IkUwTIQAAm2SQ.jpg"}
+{:description=>"Local Seared Rare Yellowtail, Spicy Persimmon &amp; Pomegranate Salsa &amp; Lemongrass Scented Jasmine Rice", :photo=>"B1IiPdeCAAEPkKa.jpg"}
+{:description=>"Blistered Hillview Farms Shishito Peppers &amp; Fingerlings. Parmesan &amp; Lemon", :photo=>"B1IZnwkIIAA5Hmk.jpg"}
+{:description=>"Tuna Tartare, Avocado, Crispy Wontons. Mizuna with Shaved Persimmons", :photo=>"B1IZchuCUAAhU3q.jpg"}
+{:description=>"beef bolognese pasta, salad of pickled cucumber and fennel, tender greens, arugula &amp; balsamic vin", :photo=>"B1IWanjCQAAFSo1.jpg"}
+{:description=>"Ginger Soy Braised Chicken Thighs: Organic Brown Rice, Cilantro, Green Onion, Black &amp; White Sesame Seeds.", :photo=>"B1FA3Q7IYAAv0B2.jpg"}
+{:description=>"Special side of Fingerling Potatoes w/ House Made Bolognese Sauce, Parmesan &amp; Fresh Herbs", :photo=>"B1E0vqKCEAImvHG.jpg"}
+{:description=>"Eggplant Parmesan w/ tomato sauce &amp; sautéed wax beans w/ a kale salad with roasted fennel and garlic vin", :photo=>"B1E0V1pCIAAb5MZ.jpg"}
+{:description=>"does taco Tuesday! Pork carnitas tacos with Spanish rice and tomatillo tomato salsa", :photo=>"B1Ewo13CAAEnEgn.jpg"}
+{:description=>"Baked Penne Pasta w/ House Made Bolognese Sauce, Ricotta Cheese &amp; Herbs", :photo=>"B1ESzglCAAAL_dM.jpg"}
+{:description=>"Check out the HUGE Argonaut Squash at from our friends at Shoemaker Farms in Ramona! It's a monster!!", :photo=>"B1EHXe2IIAEXFkD.jpg"}
+{:description=>"double smoked BBQ pulled porksandwich in a telera roll w/jicama slaw &amp; salad of tender greens &amp;fingerling chips", :photo=>"B1DWXbzCcAE3j1B.jpg"}
+{:description=>"Pork Adobo, Sonoma Vinegar, Black Garlic, Soy Sauce, Red Wine, Jasmine Rice, Kale Salad", :photo=>"B1DVJytCMAATapm.jpg"}
+{:description=>"Taco Tuesday! Carne Asada Street Tacos, Chimichurri, Heirloom Tomatoes, Cabbage &amp; Avocado Cream", :photo=>"B1DQJocIgAAZ_z-.jpg"}
+{:description=>"cider braised pork belly, butternut squash purée, roasted apples tender greens, arugula, pickled fennel, garlic", :photo=>"B1DKlfJCAAIYMjK.jpg"}
+{:description=>"Dinner special", :photo=>"B0_1TqiCEAANbrL.jpg"}
+{:description=>"Rosemary Flatbread with apple butter, persimmon, goat cheese, balsamic reduction, arugula", :photo=>"B0_opmHIEAA2TA4.jpg"}
+{:description=>"house made pasta parsley &amp; garlic sauce Swiss chard dry cured ham mushrooms arugula salad sherry vin cheese", :photo=>"B0_jvwSCAAAhJXp.jpg"}
+{:description=>"Salad of Heirloom Tomatoes, Yellow Wax Beans, Shaved Sunchoke &amp; Parmesan, Olive Tapenade Crostini", :photo=>"B0_AEJYCMAEOgms.jpg"}
+{:description=>"Cold Udon Noodle Salad, Pickled Asian Mushrooms, Lima Beans, Green Onions, Cucumber, Tsuyu Vinaigrette", :photo=>"B0-rvThCQAEDO95.jpg"}
+{:description=>"Organic Egg Over Easy, Bleu Cheese, Polenta, Mushrooms, Walnuts, Tender Greens, Golden Raisins, Balsamic Vin.", :photo=>"B0-R0SRCUAAelcq.jpg"}
+{:description=>"Local Apples, Point Reyes Bleu cheese, House Granola, Arugula, and a Balsamic Reduction", :photo=>"B0-PzzhCUAEXhPt.jpg"}
+{:description=>"bacon wrapped housemade meatloaf served with mashed potato,tender greens salad,fall veggies&amp;parmesan", :photo=>"B0-NyK5CMAAV5i5.jpg"}
+{:description=>"Grilled Coho Salmon, Farro and Sweet Onion Soubise Risotto, Tendergreens, Sherry Vinaigrette", :photo=>"B0-KsOdCIAAh-m7.jpg"}
+{:description=>"Housemade sweet potato ravioli, mascarpone &amp; Parmesan cheese, tarragon, roasted walnuts, pecorino sardo cheese", :photo=>"B06swXnIgAErXva.jpg"}
+{:description=>"Cajun Fired Chicken, Southern Fall Rice, Mushroom Gravy with Wild Arugula Salad", :photo=>"B06huZkCAAAShhv.jpg"}
+{:description=>"Special Side: Buttermilk Biscuits, Ham, Cheddar &amp; Caramelized Apple Jam", :photo=>"B06hfadCUAA2GOh.jpg"}
+{:description=>"Open faced sand which with Smoked ham, white cheddar, caramelized apple butter, and crispy sage.", :photo=>"B05QBGTCYAAczuw.jpg"}
+{:description=>"Apple cider braised pork belly, maple sweet potato purée, apple-daikon slaw, tender greens, walnuts, sherry vin", :photo=>"B05JXGGCAAA1r-M.jpg"}
+{:description=>"Special:House Bacon&amp;Fried Egg Sandwich,Aioli,Blue Cheese Frisée,Arugula&amp;Spinach,Heirloom Tomatoes,Sherry Vin", :photo=>"B05EoixCQAAHcBD.jpg"}
+{:description=>"chicken,spinach&amp;Swiss cheese turn over,salad of tender greens,fall vegetables,sherry dressing&amp;parm cheese", :photo=>"B0uvNKmCIAIu0Tc.jpg"}
+{:description=>"chicken piccata, creamy mashed potatoes, sautéed red spinach, toasted garlic, lemon caper butter sauce", :photo=>"B01hkaeIUAAltzs.jpg"}
+{:description=>"House Made Capellini w/ Beef Bolognese Sauce &amp; Parmesan// Kale, Walnuts, Pomegranate Seeds &amp; Balsamic Vin.", :photo=>"B01ajbFCYAAvFup.jpg"}
+{:description=>"Beef &amp; Pork Bolognese, Chive Fettuccini, Parm Cheese, Parsley, Basil Oil, Spinach, Tomato, Olives w/ Cab. Vin.", :photo=>"B01U1mFIYAA7Tx6.jpg"}
+{:description=>"beef \"picadilla\" empanadas with Spanish rice and spicy cilantro sauce tender greens,kale, apple, pomegranate", :photo=>"B01PmClCUAA1dxN.jpg"}
+{:description=>"Today's Special Black Pepper Crusted Hawaiian Ono, with Frise and Tendergreen,sesame dressing", :photo=>"B00GAWlCAAM0R_X.jpg"}
+{:description=>"Special:Slow Braised Pork Belly,Steamed Buns,Mongolian BBQ Sauce,Chinese Mix,Kimchi Persimmon,Sesame Vin", :photo=>"B0z9obQIcAAu_RI.jpg"}
+{:description=>"Seared scallops, farro risotto, herb pesto", :photo=>"B0wRojlCMAEQREn.jpg"}
+{:description=>"Housemade corn &amp; ricotta ravioli, mirepoix, cream sauce, fresh sage, Parmesan", :photo=>"B0wQz95IAAAutYm.jpg"}
+{:description=>"mussels with roasted fennel, Brussel sprouts, bacon, and a bechamel sauce", :photo=>"B0wMobKCYAAzmHj.jpg"}
+{:description=>"seared rare yellowtail, persimmon salsa fresca, lemongrass scented jasmine rice", :photo=>"B0u3xbsCYAAGhw9.jpg"}
+{:description=>"chicken,spinach&amp;Swiss cheese turn over,salad of tender greens,fall vegetables,sherry dressing&amp;parm cheese", :photo=>"B0uvNKmCIAIu0Tc.jpg"}
+{:description=>"Spicy Hamachi Salad, Local Yellowtail, Korean Bean Paste, County Line Chicories, Cilantro and Scallions", :photo=>"B0utyjYCQAE__QU.jpg"}
+{:description=>"Yellowtail tostada, Ceviche, avocado purée, spicy mayo, tender greens, shaved radish, sherry vinaigrette", :photo=>"B0unjkHCUAIE1Uv.jpg"}
+{:description=>"Slow Braised Beef, Creamy Polenta, Crispy Onion Straws, Butternut Squash Purée, Wax Bean, Spiced Candied Nuts", :photo=>"B0rL4hCIYAE6rc7.jpg"}
+{:description=>"Mini Tarts of Bacon, Kale &amp; Goat Cheese", :photo=>"B0pmjxoIUAEPkfb.jpg"}
+{:description=>"Braised Short Rib Street Tacos, Avocado Salsa Fresca, White Cheddar and Chipotle Aioli", :photo=>"B0plv47IAAAWFi0.jpg"}
+{:description=>"Seared Local Yellowtail, Grilled Persimmon &amp; Pom Gremolata, Fennel &amp; Watermelon Radish, Green Beans, Lemon Vin", :photo=>"B0pe_gYIMAAUbtL.jpg"}
+{:description=>"Housemade fettucine carbonara, applewood smoked bacon, shallots, cream sauce, Parmesan, parsley, fried egg", :photo=>"B0mL3TEIUAIwVKT.jpg"}
+{:description=>"red wine braised short rib, PL farms Swiss chard, sun choke purée, bordelaise &amp; pomegranate", :photo=>"B0l9VMYCcAA8Ind.jpg"}
+{:description=>"Handmade raviolis of grilled persimmon and goat cheese, pomegranate and lacinato kale", :photo=>"B0l0i-4CIAAkhyQ.jpg"}
+{:description=>"Cumin/Coriander Seared Albacore Tostada", :photo=>"B0kc5vuCEAAcNuI.jpg"}
+{:description=>"Braised beef sand which with crispy onions, roasted red peppers, and horseradish aioli.", :photo=>"B0kZ1FGCcAA2KsU.jpg"}
+{:description=>"Flank Steak Roulade w/ Persimmons, Brown Butter &amp; Sage on a bed of Sweet Potato Purée w/ Fried Sunchoke", :photo=>"B0g661eCQAAfAOp.jpg"}
+{:description=>"Balsamic Grilled Hangar Steak: Stewed Red Lentils, Micro Kale, Radish, Lemon Vinaigrette, Chimichurri Sauce.", :photo=>"B0g5ZCxCYAEJLlf.jpg"}
+{:description=>"grilled Ono olive oil poached sunchoke white beans Swiss chard tomato citrus sauce w/ tender greens pomegranate", :photo=>"B0gi7DvCEAAJjdv.jpg"}
+{:description=>"Coffee Rubbed Sirloin, Sweet Potato Souffle, Kale Simple Salad", :photo=>"B0fRAMwCYAEKMIp.jpg"}
+{:description=>"Roasted Beets Special Side! Goat Cheese and Pepitas!", :photo=>"B0fPSlmIQAAmrza.jpg"}
+{:description=>"Ginger Scallion Chicken Sando with Grapes and Sunfliwer Seeds!", :photo=>"B0fPE2ECcAAQ4xu.jpg"}
+{:description=>"Ono sandwich w/roasted peppers, lemon caper aioli salad of pickled red onion &amp; fennel, cab vin", :photo=>"B0fKshZCcAAkDne.jpg"}
+{:description=>"House Made Fettucini, Butternut Squash, Sweet Potato, Parsnips, Swiss Chard, Parmesan Crème Sauce", :photo=>"B0buUxNIIAAoIqt.jpg"}
+{:description=>"house made roasted vegetable lasagna, melted spinach, bechamel sauce arugula salad, Parmesan, garlic vin.", :photo=>"B0bpbugIEAAjm1r.jpg"}
+{:description=>"Garbanzo Bean &amp; Quinoa Fritters. Butternut Squash Purée. Pickled Cranberries. Greens. Persimmons. Sherry Vin.", :photo=>"B0bg65bIUAEzeQs.jpg"}
+{:description=>"grilled MT.Shasta trout,cranberry bean cassoulet,watercress salad,shaved fennel,frisee,lemon,pinenut relish", :photo=>"B0aK6GRCIAEOkEp.jpg"}
+{:description=>"Eggplant, Avocado, Tomato Thyme Jam &amp; White Cheddar Panini, Tender Greens, Pomegranate, Persimmon", :photo=>"B0aJlMPCEAAZS-j.jpg"}
+{:description=>"Blackened Coho Salmon, Tendergreens, County Line Chicories, Pomegranate Seeds, Lime Dressing", :photo=>"B0aG0yvCYAEyYiP.jpg"}
+{:description=>"Dinner special", :photo=>"B0WnbLiCAAA-z-F.jpg"}
+{:description=>"Kung Pao Beef garlic and ginger rice, tatsoi, mazuna, pea sprouts, carrots, wontons, cilantro, sesame", :photo=>"B0Wj9R_CQAAj0KB.jpg"}
+{:description=>"Slow braised beef cannellini bean purée sweet potato &amp; pumpkin with tender greens, marinated beets, horseradish vin", :photo=>"B0WUeMoCUAA3ZBN.jpg"}
+{:description=>"Potato Cheddar Pancakes, Roasted Apples, Persimmons, Toasted Pecans, Crème Freche, Maple Syrup, Smoked Bacon", :photo=>"B0VLKs6IIAEEK5R.jpg"}
+{:description=>"Bacon Gravy over Fried Chicken and Biscuits?? Yes please!!", :photo=>"B0VHC-MCYAAvyiW.jpg"}
+{:description=>"Crisp Ahi tuna cakes,spiced tomato jam,yogurt relish,salad of watercress,shaved fennel,frisee &amp;lemon dressing", :photo=>"B0VB1iNIMAAq3BX.jpg"}
+{:description=>"Special:Huevos Rancheros,Housemade Chorizo,Sunny Side Up Egg,Ranchero Sauce,Baby Kale,Pomegranate,Lime Vin", :photo=>"B0VBqxAIIAAKWB7.jpg"}
+{:description=>"Happy Sunday! Poached Eggs with Bacon Gravy! Tender Greens, Pickled Fennel, Shaved Apples", :photo=>"B0U_xvHCMAAS1bT.jpg"}
+{:description=>"", :photo=>"B0U_lS5CMAAQIML.jpg"}
+{:description=>"", :photo=>"B0U_isuCIAARjIt.jpg"}
+{:description=>"", :photo=>"B0U_d43CMAEw1BM.jpg"}
+{:description=>"slow braised short rib, creamy polenta, sautéed baby kale, toasted garlic, short rib jus, micro greens", :photo=>"B0Rl7UPIcAA_N22.jpg"}
+{:description=>"confit duck leg pan seared breast Farro risotto apple persimmon pomegranate sage cranberry gastrique", :photo=>"B0RW-LBCAAEz2IG.jpg"}
+{:description=>"Fresh Shrimp &amp; Spinach Cannellonis. Roasted Red Pepper Cream Sauce. Greens. Shaved Persimmons. Sherry Vin.", :photo=>"B0RQj_KIMAAHa2Y.jpg"}
+{:description=>"BBQpulled pork sandwich with a cole slaw &amp;salad of tender greens &amp; parmesan cheese", :photo=>"B0P7MBMIgAA7fNn.jpg"}
+{:description=>"Imagine the impact if every restaurant educated their customers like", :photo=>"B0Ms1C5CAAAC65t.jpg"}
+{:description=>"slow braised pork cheek, cranberry beans, butternut squash, smoked bacon, pickled red onion, kale, pork jus", :photo=>"B0Msy2LIUAEGpBT.jpg"}
+{:description=>"pan seared rock cod butternut squash gnocchi crispy sage &amp; caper toasted pecan brown butter", :photo=>"B0MLhqOCUAEDZUl.jpg"}
+{:description=>"house made Rosemary Parmesan flatbread with cannellini bean purée, bacon and roasted peppers", :photo=>"B0MG56VCQAAR5Rm.jpg"}
+{:description=>"Smoked BBQ Pork Ribs Sweet Potato Puree, Butter Lettuce, Pomegranate Arils, Golden Balsamic Vinaigrette", :photo=>"B0MGMDLCcAAO7B4.jpg"}
+{:description=>"Walnut Creek PM Special: House Made Lamb Ravioli, Parsnip puree, Cream Spinach, Parmesan Cheese", :photo=>"B0MA4wMIIAAcVg0.jpg"}
+{:description=>"come downtown for candied yams with pecan and house made spiced marshmallow", :photo=>"B0L8suTCMAAMo49.jpg"}
+{:description=>"Grilled Rainbow Trout, Pineapple Salsa, Farro with Fennel, Onions and Arugula Salad.", :photo=>"B0LJl4WCEAA6Bl3.jpg"}
+{:description=>"Harvest Salad: Roasted Persimmons, Frog Hollow Warren Pears, Cheese Curds, Candied Walnuts", :photo=>"B0KyD8cCUAA0usx.jpg"}
+{:description=>"P. Balistreri Salami Sandwich,Roasted Red Pepper&amp;Eggplant Spread,Olive Tapenade, Arugula, Provolone &amp; Aioli", :photo=>"B0KwUcUCAAIhwiw.jpg"}
+{:description=>"Mt Shasta Trout Cranberry Bean Cassoulet Lollo Rosso Shaved Fennel Frisee Salad Lemon Parsely &amp; Pinenut Relish", :photo=>"B0Kt960CMAAjLlI.jpg"}
+{:description=>"Grilled Yellowtail, Dandelion Greens, Fried Shallots, Lime Dressing", :photo=>"B0KprCVCUAAaYMj.jpg"}
+{:description=>"chicken pot pie with buttermilk biscuit top roasted fall veggies thyme with salad if young lettuces local apple", :photo=>"B0Kjr3sCcAAQlJH.jpg"}
+{:description=>"\"Bi Bim Bap\", Spicy Korean Glazed Pork Belly, Steamed Rice, Fried Egg, Mizuna Salad", :photo=>"B0HBqK4CUAAgLxq.jpg"}
+{:description=>"gonestraw farms duck breast curried apple &amp; persimmon compote Swiss chard pecan &amp; persimmon gastrique", :photo=>"B0HBd0eCIAAwky4.jpg"}
+{:description=>"Fresh Fettuccini Carbonara Duck Proscuitto Egg Yolks Parmesan, Kale Butternut Squash Pomegranate Balsamic Vin.", :photo=>"B0G-96YCIAIJyyV.jpg"}
+{:description=>"ras-el-hanout spiced chicken thigh, Moroccan style rice and cilantro cumin creme fraiche", :photo=>"B0G3gHeCUAAaysP.jpg"}
+{:description=>"Spec Side: Sweet Potato Fries, Blue Cheese, Pecans &amp; Balsamic Reduction", :photo=>"B0Flm4aCYAA8Kct.jpg"}
+{:description=>"Wild Rock Fish Ceviche Tostadas, Cilantro, Lime, Tomatoes, Jalapeño, Avocado, Sautéed Cranberry Beans", :photo=>"B0Fla6SCEAAZg7I.jpg"}
+{:description=>"Tuna Conserva Wrap Lavash w/ Romaine served w/ a salad of Baby Spinach and Pears w/ Golden Balsamic Dressing", :photo=>"B0FlQQOCIAA7AOc.jpg"}
+{:description=>"Housemade Fettucine Meatball Pasta: San Marzano Tomato Sauce, Parmesan, Parsley, Arugula, Tomato, Balsamic.", :photo=>"B0B8hdAIIAAP-FO.jpg"}
+{:description=>"sugar doughnuts, chicken liver mousse, quince &amp; vanilla bean jelly", :photo=>"B0B78vzCEAAFEQk.jpg"}
+{:description=>"crispy lardo wrapped rock cod spiced persimmon purée crispy Brussels leaves pomegranate &amp; pecan", :photo=>"B0B7toQCcAAStEj.jpg"}
+{:description=>"Clams, Opah Filet, Fingerlings, Black Garlic Dashi &amp; Tomato Broth", :photo=>"B0Bw0hgCIAATbB8.jpg"}
+{:description=>"house made cannellini bean and bacon tortellinis with cranberry bean salsa, salsa verde and butternut puree", :photo=>"B0BvATECEAAPPOQ.jpg"}
+{:description=>"Apple Carmel!!!", :photo=>"B0BZVe_IEAA-GkJ.jpg"}
+{:description=>"Poached Tuna Salad Sandwich with Butter Lettuce, Dijon Aioli, Red Onion &amp; Celery.", :photo=>"B0AmQ1nCMAAr274.jpg"}
+{:description=>"Soups: White Bean / Cauliflower Purée", :photo=>"B0AkH8NIYAE5gCF.jpg"}
+{:description=>"Chicken Tortilla Soup", :photo=>"B0Aj5upIYAMFod6.jpg"}
+{:description=>"Brussels, Sautéed Shallots, Toasted Garlic &amp; House Smoke Bacon Bits", :photo=>"B0AiUekIIAAlEQh.jpg"}
+{:description=>"Cream Cheese Pop Tart", :photo=>"B0AiAnyIYAA-o5_.jpg"}
+{:description=>"Seared Alaskan Halibut served w/ Cannelini Beans Lemon Relish and salad of Water cress shaved fennel and frisee", :photo=>"B0AbL-QCYAAGwqL.jpg"}
+{:description=>"Today's Special is in the works at Housecured Bacon-Wrapped Meatloaf Sandwich, Onion Rings &amp; Tomato Aioli", :photo=>"Bz_8f9QCMAA02TJ.jpg"}
+{:description=>"butternut squash \"carbonara\" pasta, Housemade fettucine, smoked bacon, butternut squash purée, sage", :photo=>"Bz89E9iCQAA01f5.jpg"}
+{:description=>"Steak &amp; Rigatoni w/ Blue Cheese Cream Sauce &amp; Lemon Picata/ Butter Lettuce Salad, Persimmons, Pecans, Cab Vin", :photo=>"Bz8yjBQCQAA6V-r.jpg"}
+{:description=>"Smoked Brisket Chili, Cranberry Beans, Masa, Cornbread", :photo=>"Bz8mfZqCQAA2gl_.jpg"}
+{:description=>"Mexican Shredded Chicken Tacos, Apple Pico De Gallo, Salsa, Baby Greens, Radish, Cilantro, Lime Vinaigrette", :photo=>"Bz8mP0IIUAAohoI.jpg"}
+{:description=>"free range fried chicken, mashed potatoes and gravy with a buttermilk biscuit", :photo=>"Bz8mK_SCIAAoebN.jpg"}
+{:description=>"Say hello to tonight's dinner. This delish green hummus dish, plus 6 more clean recipes here:", :photo=>"Bz8Qb8cCQAANX9h.jpg"}
+{:description=>"Grilled Calamari Steak Salad with Marinated Beans, Papaya, Olives, Arugula, Butter Lettuce &amp; Creamy Dress.", :photo=>"Bz7pg4rCUAABdur.jpg"}
+{:description=>"Pistacchio Mortadella &amp; Salami Panini w Giardiniera (tomatoes, capers, olives, peppers, romaine salad", :photo=>"Bz7TvvaCcAAKyhP.jpg"}
+{:description=>"Bacon wrapped meatloaf, fall vegetables,mashed potato,tangy bbq sauce&amp;toasted pecans,salad of tender greens", :photo=>"Bz7Suk7CIAEJWy4.jpg"}
+{:description=>"Smoked Brisket Sandwich, Cole Slaw, Aioli, Kale Salad", :photo=>"Bz7M1pjCQAE46xC.jpg"}
+{:description=>"cuban spiced panini,maple glazed bacon,fontina cheese,jalapeno,chipotle aioli,salad of tender greens &amp;sherry", :photo=>"Bz2MwzfCMAI4bv3.jpg"}
+{:description=>"bacon wrapped meatloaf", :photo=>"Bz7Kx2kCQAAgDdx.jpg"}
+{:description=>"Big salami salad p. balistreri salami, raisins, fried chick peas, parmesan, fingerling potatoes and garlic vin.", :photo=>"Bz7JOYlCUAAmHcN.jpg"}
+{:description=>"Dinner special", :photo=>"Bz3pl-BCIAEi96Y.jpg"}
+{:description=>"House made pappardelle pasta, Slow simmered spicy tomato &amp; Italian sausage sauce, roasted squash, Tuscan kale", :photo=>"Bz3jONECcAAVaHG.jpg"}
+{:description=>"grilled Scottish salmon, white beech mushrooms, Cipollini onions, herb fingerling potatoes, cauliflower purée", :photo=>"Bz3fgsiCcAAYY7X.jpg"}
+{:description=>"Potato Gnocci. Sautéed Swiss Chard, Grilled Broccolini. Lemon Butter Sauce. Greens. Persimmon. Apple Vin.", :photo=>"Bz3cqXxIIAAb8nc.jpg"}
+{:description=>"cuban spiced panini,maple glazed bacon,fontina cheese,jalapeno,chipotle aioli,salad of tender greens &amp;sherry", :photo=>"Bz2MwzfCMAI4bv3.jpg"}
+{:description=>"Big Salad of Roasted Butternut Squash, Quinoa, Almonds, Goat Cheese, Pomegranate, Persimmon, Kale &amp; Gold Bals", :photo=>"Bz2HKCXCMAA7Y1q.jpg"}
+{:description=>"Carnitas tacos, tomatillo salsa, diced white onion, cilantro, romaine, radish, cucumber, lemon vinaigrette", :photo=>"BzyYq2xCIAAmD_q.jpg"}
+{:description=>"Slow braised beef with maple-pumpkin purée, Suzies farm roasted apples and Swiss chard", :photo=>"BzyXShICUAAHufE.jpg"}
+{:description=>"Celebrate the craft: Heirloom squash &amp; P Balisteri lardo tortellini with roasted apple purée &amp; Parmesan", :photo=>"BzxNh9LCEAAJ1qw.jpg"}
+{:description=>"the crew at Celebrate the Craft", :photo=>"BzxGE6gIQAEYe7K.jpg"}
+{:description=>"Cuban spiced roast pork loin,roasted delecata squash,braised tuscan kale,roasted pecans,goat cheese &amp;kale salad", :photo=>"Bzw-uD-CYAAbbbf.jpg"}
+{:description=>"Special:Chicken&amp;Cheese Enchiladas,Chipotle Sauce,Queso,Tender Greens,Pickled Onion,Tortilla Strips,Lime Vin", :photo=>"Bzw-NvoIYAE7FKI.jpg"}
+{:description=>"Veggie Fritatta! Tender Greens with Sauerkraut, Herb Aioli", :photo=>"BzwzTP3CEAAEM5-.jpg"}
+{:description=>"Tuna ceviche, tomato and avocado, tortilla chips, arugula salad with shaved radish", :photo=>"Bzwxw2sCMAETxNW.jpg"}
+{:description=>"\"Baked Potato Flatbread\" House made flatbread, creamy mashed potatoes, bacon, Parmesan &amp; cheddar", :photo=>"BztZO40IAAASNCs.jpg"}
+{:description=>"Special Side of Bacon Popcorn w/ Parmesan &amp; Chives", :photo=>"BztXxW0IIAAnwwd.jpg"}
+{:description=>"Housemade pappardelle, slow braised pork ragout, mirepoix, Lacinato baby kale, Parmesan", :photo=>"BztVBGcCQAEq-kW.jpg"}
+{:description=>"Chicken Swedish Meatballs, Butternut Squash Hash, Chicken Gravy &amp; Baby Greens, Shaved Persimmon w/ Sherry Vin.", :photo=>"BztPwGHIUAAtTvL.jpg"}
+{:description=>"grilled salmon, a grapefruit and basil relish,cassoulet beans,salad of arugula,frisee,fennel &amp; lemon dressing", :photo=>"Bzr399qIUAE1_FQ.jpg"}
+{:description=>"Roasted Pork Loin,Sage Stuffing,Cranberry Orange, &amp;Walnut Chutney,Brown Butter Yam Purée &amp;Cranberry Gastrique", :photo=>"BzoPtkWCcAEM3bq.jpg"}
+{:description=>"traditional Irish shepherds pie young lettuces pickled onion and fennel and beets sherry vinaigrette", :photo=>"BzoH9_-IUAASTrB.jpg"}
+{:description=>"Dinner Special | Home style P.E.I. mussels, garlic shallot white wine burre monte sauce", :photo=>"Bzn81k8CEAEXQ6O.jpg"}
+{:description=>"Lunch Special - Grilled Shrimp Sandwich.", :photo=>"Bzmz1zXCEAE-v73.jpg"}
+{:description=>"\"fish n chips\"local cod,kennebec french fries,tartar sauce,salad of watercress,fennel,frisee&amp;lemon dressing", :photo=>"Bzmq-ilCYAE0qFh.jpg"}
+{:description=>"Special Side of Deviled Duck Eggs with Wild Arugula &amp; Paprika", :photo=>"Bzmo_0MCEAANvDh.jpg"}
+{:description=>"Fish Fry, Chipotle Beer Batter, Local Rockfish, Sriracha Aioli, Butter Lettuce Salad", :photo=>"Bzmoy9VCIAAeEO3.jpg"}
+{:description=>"Special Side | Shaved Brussels Sprout Salad, Red Grapes, Citrus Vinaigrette", :photo=>"BzmoZ5NCcAAr99l.jpg"}
+{:description=>"Big Fall Salad w Guanciale, Yams, Goat Cheese, Pepitas, Pomegranates, Golden Balsamic", :photo=>"BzmoGyPCQAAJtuh.jpg"}
+{:description=>"Our very first special! | Black Skillet Rock Fish PoBoy, Jalapeño Cabbage Slaw, Smoked Paprika Aioli", :photo=>"Bzmn7bGCIAAOGOa.jpg"}
+{:description=>"chic pea falafel, spinach, tender greens, roasted peppers, olives, pickled onion, feta, garlic vinaigrette", :photo=>"BzminTaCMAEh1r_.jpg"}
+{:description=>"It's that time of year! prep time for Celebrate the Craft!", :photo=>"BzmM6C7CIAAE4gJ.jpg"}
+{:description=>"Gonestraw Farms Deviled Duck Eggs w/ Wild Arugula &amp; Paprika", :photo=>"BzjFSceCIAALexn.jpg"}
+{:description=>"Atlantic Salmon w/ Swiss chard, pickled sultanas, walnuts, brown butter sweet potato purée &amp; Beurre rouge.", :photo=>"Bzi_-IECMAEJg5T.jpg"}
+{:description=>"Chef Pete, chef Peter and chef Kara getting ready for celebrate the craft with 1,000 tortellini", :photo=>"BzijWDmCEAAWb-J.jpg"}
+{:description=>"House Smoked Pork Belly, Salsa Verde on Farro, Sautéed Leek, Brussels, Kale Salad, Radish &amp; Cabernet Vin.", :photo=>"BzhgllBCcAAJxLB.jpg"}
+{:description=>"Pork Belly Adobo, Jasmine Rice, Arugula, Scallions, Cilantro, Sesame Dressing", :photo=>"BzhgP0ZCUAAyuOZ.jpg"}
+{:description=>"Salad of Organic Greens, House Bacon, Point Reyes Blue Cheese, Candied Walnuts, Figs, Grapes, Fennel &amp; Basil", :photo=>"Bzhfcn9CIAA_XO3.jpg"}
+{:description=>"big salad of bacon with roasted apples, persimmons, pickled onions, blue cheese and Cabernet vinaigrette", :photo=>"BzhYbsJCMAIWdaE.jpg"}
+{:description=>"side of chick peas with kale, feta, olives, young broccoli roasted peppers and golden balsamic", :photo=>"BzhYR7iCYAEuY8R.jpg"}
+{:description=>"lamb &amp; carrot tagine ravioli parsnip purée spread braised Tuscan kale roasted butternut squash &amp; red kale chips", :photo=>"BzeKoGuCIAEhgQG.jpg"}
+{:description=>"Gonestraw Farms Roasted Chicken, Roasted Veggies &amp; Spaghetti Squash, Tarragon Burre Blanc, Baby Greens Salad", :photo=>"Bzd4LJwIEAAIyJL.jpg"}
+{:description=>"Seared Duck Breast. Farro \"Fried Rice\". Persimmon Kimchi. Spinach, Carrots, Peanuts. Chili Lime Vin.", :photo=>"Bzd1KbzIEAAUenB.jpg"}
+{:description=>"Lamb and carrot tagine ravioli, parsnip puree, braised Tuscan kale, roasted butternut squash and red kale chips", :photo=>"Bzdwtp6CYAAABO3.jpg"}
+{:description=>"Grilled local yellowtail, steamed rice, broccolini, green beans, house made teriyaki, Mitzuna &amp; tatsoi", :photo=>"BzdtAIXCcAATRlQ.jpg"}
+{:description=>".@tendergreens’ South Beach location debuts today, with healthy lunch and dinner options.", :photo=>"Bzc9HgECcAEy9xG.jpg"}
+{:description=>"finally and just in time for your birthday!", :photo=>"BzcrMYNCAAA5gjM.jpg"}
+{:description=>"Quinoa Pancakes Smoked Maple Glazed Bacon Citrus Cream Pom Pluots Tender Green Salad w/ Parm Chz Sherry Vin", :photo=>"BzcXO93CIAAk2hl.jpg"}
+{:description=>"Grilled Coho Salmon, Green Curry Lentils, Frisee, Arugula, Sherry Vinaigrette", :photo=>"BzcVIaDCYAAM6S3.jpg"}
+{:description=>"big salad of local yellowtail crudo w/ citrus, beets, pickled onions, cilantro, scallions &amp; lemon vinaigrette", :photo=>"BzcRuQJCAAEMUPQ.jpg"}
+{:description=>"house made pappardelle pasta w/ slow braised beef, mushroom and bacon ragout with kale salad", :photo=>"BzZFv-1CIAA1Kdc.jpg"}
+{:description=>"Roasted pork belly with butternut squash purée, Brussels sprouts, candied walnuts, and cranberries.", :photo=>"BzYrYmXCAAEzbEu.jpg"}
+{:description=>"Smoked BBQ Pork Belly. Parsnip Purée, Dijon BBQ Sauce. Arugula. Gala Apples. Cabernet Vin.", :photo=>"BzYqkv9CAAEDlFR.jpg"}
+{:description=>"Roasted Bone-in pork chop, creamy polenta, Brussel sprouts, shoemaker farms apples, honey Dijon sauce", :photo=>"BzYi6_XCIAAA188.jpg"}
+{:description=>"Smoked crispy chile verde tacos,cabbage slaw,avocado pico de gallo w/ a salad of tender greens,queso fresco", :photo=>"BzXRS9fCEAApxxQ.jpg"}
+{:description=>"Kalua Pork &amp; Cabbage, Steamed Jasmine Rice, Marinated Tomatoes, Scallions, Cilantro", :photo=>"BzXNJ0WCcAEyj-7.jpg"}
+{:description=>"chicken pot pie with butternut squash carrots onion rosemary with butter lettuce salad persimmons", :photo=>"BzXBgymIQAEUY_E.jpg"}
+{:description=>"9hr Texas Chili, fusilli pasta, butternut squash, braised Tuscan kale, aged cheddar &amp; sour cream kale salad", :photo=>"BzT3pkZCYAAJ75f.jpg"}
+{:description=>"", :photo=>"BzTlhUWCMAEUkFI.jpg"}
+{:description=>"Rosemary Parmesan flatbread, butternut squash, roasted apple, goat cheese, tender greens salad, walnuts", :photo=>"BzTY4m1CQAE-4KN.jpg"}
+{:description=>"Short Rib Sandwich with caramelized onion &amp; peppers.", :photo=>"BzSK4ikIgAAtfOm.jpg"}
+{:description=>"double smoked bacon,lettuce,tomato sandwich w/ tender greens,spinach,green beans,heirloom tomato,parmesan.", :photo=>"BzSFieCCYAApFC3.jpg"}
+{:description=>"Spinach Big Salad w Butternut Squash, Brussels Sprouts, Dried Cranberries, Hibiscus Bulgar Wheat, Basil", :photo=>"BzSDrndCEAA73ez.jpg"}
+{:description=>"Wahoo Ceviche, Watermelon, Cucumber, Tomato, Like, Cilantro, Romaine", :photo=>"BzSBVqRCcAAdHCv.jpg"}
+{:description=>"slow braised beef with kabocha squash purée, house made gnocchi and rainbow Swiss chard", :photo=>"BzOYOmhCEAAq_f5.jpg"}
+{:description=>"House Made Bacon, Butternut Squash, &amp; Potato Hash. SAGE &amp; Gonestraw Farms Poached Egg", :photo=>"BzNwk5CIYAAgBDA.jpg"}
+{:description=>"Today's Vegetables- Eggplant, Roasted Pumpkin, Rainbow Carrots, Acorn Squash, &amp; Brussel Sprouts", :photo=>"BzM90FaIUAIPvcz.jpg"}
+{:description=>"Chicken,Spinach&amp;feta TURNOVER w/salad of spinach,almond,fennel,squash &amp;sherry dressing", :photo=>"BzM5IsbCYAA_MI7.jpg"}
+{:description=>"Mediterranean plate,housemade pita bread,eggplant spread,falafel,tzatziki,moroccon spiced carrots&amp;spinach salad", :photo=>"BzCo8YICEAAsYIi.jpg"}
+{:description=>"flank steak roulade, potatoes dauphinoise, tarragon burre Blanc, cranberry gastrique, fine herb", :photo=>"BzJNxiwCAAAYIAC.jpg"}
+{:description=>"Smoked Andouille Sausage, Pasta, Cajun Sauce, Red Bell Pepper, Tomato, Persimmon, Greens, Onion w/ Sherry Vin.", :photo=>"BzJMovYIcAAxVg0.jpg"}
+{:description=>"chipotle meatloaf with smoked guanciale and a potato sweet pepper salad", :photo=>"BzJKb_fCcAAV5nu.jpg"}
+{:description=>"Grilled Idaho rainbow trout on a big salad, butter lettuce and arugula, papaya, beets, olives, lemon vin.", :photo=>"BzH1tkKCEAE5n6s.jpg"}
+{:description=>"plate,housemade pita bread,eggplant spread,falafel,tzatziki,moroccon spiced carrots&amp;spinach salad", :photo=>"BzCo8YICEAAsYIi.jpg"}
+{:description=>"local yellowtail crudo salad, Alegria farms heirloom cucumbers, shaved fennel and citrus!", :photo=>"BzHreiRIIAASyhD.jpg"}
+{:description=>"Big Salad of Shaved Apple, Roasted Fuyu Persimmon's &amp; Beets, Hazelnuts, TG &amp; Arugula, Sherry Vinaigrette", :photo=>"BzHqxRmCcAIJK0k.jpg"}
+{:description=>"Chicken Cordon Bleu, Mortadella, Fontina Cheese, Bread Crumbs, Shallots, Swiss Chard, &amp; Dijon Beurre Blanc.", :photo=>"BzEDI1sIEAAv8ph.jpg"}
+{:description=>"Roasted pork loin, brown sugar mustard glaze, fingerling potatoes, fennel, shishito, peppers, cranberry chutney", :photo=>"BzD8q5ACAAAy8tH.jpg"}
+{:description=>"We talked to actor, activist, and food advocate about food deserts in htt…", :photo=>"By9iSRVIAAACGzf.jpg"}
+{:description=>"Harvest Salad of Organic Baby Greens, Toasted Almonds, Grapes, Apples, Persimmons &amp; Laura Chenel Goat Cheese", :photo=>"BzCwH7SCcAAwtmu.jpg"}
+{:description=>"Roasted Pork Shoulder with Farro, Red Onion, Mushroom &amp; Tomato.", :photo=>"BzCvoS_CMAABUdK.jpg"}
+{:description=>"Mediterranean plate,housemade pita bread,eggplant spread,falafel,tzatziki,moroccon spiced carrots&amp;spinach salad", :photo=>"BzCo8YICEAAsYIi.jpg"}
+{:description=>"Roasted Brussels with Bacon Fat, Dijon Mustard &amp; Chives", :photo=>"BzCndCQCcAA0Eb3.jpg"}
+{:description=>"Croque Madame w Mortadella, Fontina Cheese, Dijon Aioli &amp; Duck Egg, Organic Greens, Heirlooms &amp; Pickled Onion", :photo=>"BzCnLmVCIAEHNF2.jpg"}
+{:description=>"Grilled Ciabatta with Taleggio Cheese, Quince Jam &amp; Micro Arugula", :photo=>"BzCnvsGCIAAdzYg.jpg"}
+{:description=>"Grilled Local Rockfish, Raz El Hanout, Curried Romanesco, Chick Peas, Kale Salad, Lemon Vinaigrette", :photo=>"BzCjEchCMAAFRvo.jpg"}
+{:description=>"chicken Parmesan with house made marinara and rainbow chard", :photo=>"By-7IuCCEAAAmN_.jpg"}
+{:description=>"Fettucini. Pork Sugo. Parmesan. Arugula. Tomatoes, Green Olives. Balsamic Vinaigrette.", :photo=>"By-2eDQIUAAOHtH.jpg"}
+{:description=>"Muffuletta sandwich on house made bread pBalisteri salumi Mortadella Fontina olive artichoke peppers &amp; aioli", :photo=>"By9fgfeCIAABwM3.jpg"}
+{:description=>"BBQ Pulled Porked Sandwich, Pine Nut &amp; Bacon Potato Salad, Arugula w/ Tomatoes Parmesan Chz, and Balsamic Vin", :photo=>"By9dUMTIIAAkSvw.jpg"}
+{:description=>"Grilled Coho Salmon, Spicy Soy Glaze, Ginger Pickles, Yuzu Mustard Vinaigrette, Butter Lettuce", :photo=>"By9ZnSoCUAA_8Hl.jpg"}
+{:description=>"teriyaki chicken salad, citrus, sesame, papaya, cilantro, green onion, tender greens &amp; Thai dres.", :photo=>"By9RwIECcAE-LlX.jpg"}
+{:description=>"Big Salad of Greens, Salumi, Hibiscus Picketed Onions, Candied Walnuts, Grapes, Roasted Fennel, Sherry Vin", :photo=>"By5-rinCAAAi3tB.jpg"}
+{:description=>"House Made Penne, Pork Sugo, Arugula Salad", :photo=>"By54ihaCYAAfdHB.jpg"}
+{:description=>"Spaghetti &amp; Meatballs. Housemase Italian Meatballs. Spicy Marinara Sauce. Herbs, Parmesan.", :photo=>"By5wYuzIIAAaEvZ.jpg"}
+{:description=>"seared wild rock fish, polenta and marinated heirloom tomatoes with a citrus beurre blanc", :photo=>"By5tvZ6CMAADitw.jpg"}
+{:description=>"Spec. Side: Local Roasted Grapes, Candied Walnuts, Arugula, Drakes Goat Cheese", :photo=>"By4U74wCMAAXmdg.jpg"}
+{:description=>"Big Salad Of Poached Gonestraw Farms Duck Egg, House Cured Bacon, Shaved Manchego, Marinated Tomatoes, Onions", :photo=>"By4UiYNCAAEyRsP.jpg"}
+{:description=>"Pulled Pork Sandwich, Sriracha Bbq Sauce, Cole Slaw, Kale Salad", :photo=>"By4QLfXCIAAtwqz.jpg"}
+{:description=>"fried chicken sandwich, lemon caper aioli and roasted peppers. Butter lettuce, cucumber &amp; radish", :photo=>"By4JztxCUAELS0E.jpg"}
+{:description=>"Housemade judori chicken tomato basil sausage, heirloom tomatoes, semolina pudding and tender greens!", :photo=>"By0zSORCUAEwpJM.jpg"}
+{:description=>"House made fettucini with a tomato sauce, summer vegetables, eggplant, sweet peppers, and cherry tomatoes.", :photo=>"By0u-DxCUAAYLe4.jpg"}
+{:description=>"Birria Tacos (3) Chopped Onions, Cilantro, fresh Salsa. Greens. Carrot Ribbons. Cilantro Lime Vin.", :photo=>"By0nFk7CUAAmK_B.jpg"}
+{:description=>"braised beef meat balls, garganelli pasta, roasted tomato sauce, mixed local kale salad.", :photo=>"By0h_GcCIAAJ5F4.jpg"}
+{:description=>"poached snapper tacos, Housemade tomatillo salsa, avocado crema, red cabbage, Spanish style rice", :photo=>"By0bOtWCEAEPZSs.jpg"}
+{:description=>"Grilled Trout, Lentils De Puy, Pickled Garlic, Frisee, Arugula, Sherry Vinaigrette", :photo=>"ByzG8EbCMAAKKgE.jpg"}
+{:description=>"side of grilled broccolini, bacon &amp; Parmesan", :photo=>"ByzBM0_CYAACBgD.jpg"}
+{:description=>"grilled chicken tostada w/ red salsa &amp; creme fraiche, salad of cucumber, queso fresco &amp; radish", :photo=>"ByzA8_1CcAAZ-MY.jpg"}
+{:description=>"Fall Vegetable Fettuccine, Heirloom Tomato Pomodoro &amp; Parmesan, Kale, Olives, Garlic Vinaigrette", :photo=>"ByvZWMICAAEz5s9.jpg"}
+{:description=>"Housemase Falafel. Flat Bread. Tzatziki Sauce. Little Gem Lettuce. Cucumber &amp; Tomatoes. Lemon Vin.", :photo=>"ByvU68wIAAAX6HU.jpg"}
+{:description=>"Special Side Shaved Apples &amp; Grapes, Shafts Bleu Cheese, Almond Granola, Baby Arugula, Balsamic Reduction", :photo=>"ByuAxGkCQAAOWRy.jpg"}
+{:description=>"Tuna conserva wrap w/lemon,dill&amp;capers served with a bacon,pine nut potato salad with a tender greens salad", :photo=>"ByuAd0sCUAA6eD_.jpg"}
+{:description=>"Curry Tofu Schnitzel Sandwich, Butter Lettuce, Heirloom Tomatoes, Sweet Peppers &amp; Garlic Aioli", :photo=>"Byt_0FzCYAALmAc.jpg"}
+{:description=>"Grilled Opah, Watermelon mint relish, Thai Curry Aioli, Tender Greens", :photo=>"Byt-LdqCEAAZhpT.jpg"}
+{:description=>"side of marinated garbanzo beans, olives, feta cheese, and sherry vinaigrette", :photo=>"Byt2AKFCUAEs7Wq.jpg"}
+{:description=>"Fall salad of roasted butternut squash, sweet potatoes, walnuts, goat cheese, butter lettuce&amp;cab", :photo=>"Byt0PBYCUAAt8h1.jpg"}
+{:description=>"Big salad of P. Balistreri Guanciale,heirloom tomatoes, fennel, fingerling potatoes and Parmesan cheese.", :photo=>"ByqUD3UCMAAPvld.jpg"}
+{:description=>"slow roasted braised beef, butternut mash, radicchio, blue cheese butter, kale, pickled onion", :photo=>"ByqQQWpCEAADU6J.jpg"}
+{:description=>"Slow Cooked Braised Beef, Rosemary Risotto, Caramelized Onions PL. Farm Greens, Tomatoes, Cabernet Vin.", :photo=>"ByqOJHDCUAAxgT-.jpg"}
+{:description=>"House Smoked Salmon over Organic Baby Greens w/ Shaved Radishes, Cucumbers, Capers, Horseradish Vinaigrette", :photo=>"BypAOvEIIAEWxly.jpg"}
+{:description=>"Special:House Smoked SalmonSandwich,Tomato,Arugula,Garlic Herb Cream Cheese,Tender Greens,Beets,Golden Bals.", :photo=>"Byo6JGRCEAAN_Hc.jpg"}
+{:description=>"chicken,vegetable,mushroom empanada with a salad of tender greens,parmesan,green beans&amp; sherry dressing", :photo=>"Byo3J0BCcAAQbiw.jpg"}
+{:description=>"Slow Cooked Pork Cheek, Cheddar Cheese &amp; Shishito Pepper Polenta, Baby Kale, Pickled Onions w/ Cabernet Vin.", :photo=>"BylL7srIYAEGBLz.jpg"}
+{:description=>"grilled Scottish salmon, roasted Cherry tomatoes, potatoes, fennel, carrots, creamy mushroom sauce", :photo=>"BylLv1cCQAAY8NX.jpg"}
+{:description=>"Gonestraw Farms Duck Egg Raviolo w/ PL Farms Swiss Chard, Parmesan &amp; Beschamel. Baby Greens w/ a Cabernet Vin", :photo=>"BylKdhTIEAAucZV.jpg"}
+{:description=>"scallops in a yellow heirloom gazpacho with cous cous, bulgar wheat, caramelized onions and cucumber", :photo=>"BylHvV5CcAEbolQ.jpg"}
+{:description=>"pork carnitas tacos, spanish rice, romaine, cucumber, radish, cilantro lime vinaigrette", :photo=>"Byj1Sa6CQAIT5k9.jpg"}
+{:description=>"special side of cheesy grits with roasted tomatoes and peppers", :photo=>"Byj0uYvCUAAkdU8.jpg"}
+{:description=>"heirloom tomato salad with coppa,red onions,bell peppers,basil pesto,honey red wine vinegar,pickled cucumber", :photo=>"Byjw7_iCAAAinqq.jpg"}
+{:description=>"Special:Rock Fish Tacos,Shredded Cabbage,Pickled Onion,Hot Sauce,Buttermilk Lime Sauce,Romaine,Heirloom Tom.", :photo=>"ByjtHpzIYAAG_ts.jpg"}
+{:description=>"Thank you Chef Som of for visiting us and inspiring our students!", :photo=>"ByfG_7qCQAENgY4.jpg"}
+{:description=>"Special Side of Grilled Local Opah, Gribiche &amp; Sea Salt", :photo=>"Byel1zBCIAAZXyY.jpg"}
+{:description=>"Antipasto Salad w Salumi, Guanciale, Pickled Shishitos &amp; Zucchini, Artichokes, Swiss, Mozzarella", :photo=>"ByelsHpCUAAMM9-.jpg"}
+{:description=>"Ginger Poached Tuna, Watercress, Romaine, Pickles, Tomato, Yuzu Mustard Vinaigrette", :photo=>"ByefzvGCEAAOgp8.jpg"}
+{:description=>"Ginger Poached Tuna, Watercress, Romaine, Pickles, Tomato, Yuzu Mustard Vinaigrette", :photo=>"ByefhQ0CYAAWwzf.jpg"}
+{:description=>"Filet of Mount Shasta Trout Cassoulet of fresh cranberry beans lemon parsley and pine nut relish Tender", :photo=>"ByeVog9CYAAK6QG.jpg"}
+{:description=>"Grilled Trout, Cassoulet of fresh cranberry beans, lemon, parsley and pine nut relish, tender greens, parm chz.", :photo=>"BybU9NPCMAAW-jd.jpg"}
+{:description=>"House Made Butternut Ravioli, Brown Butter, Pepitas, Parmesan, Chives Kale, Tomatoes Golden Balsamic Vin#TGUTC", :photo=>"Bya_-zGIIAA5OYt.jpg"}
+{:description=>"Housemade corn and marscapone agnolotti pasta, toasted garlic, white wine sauce", :photo=>"Bya9v1qCQAAcegA.jpg"}
+{:description=>"Grilled Local Opah Served On Organic Greens, Local Beets &amp; Citrus, Roasted Fennel, Quinoa, Basil, Sherry Vin.", :photo=>"Bya4bB3CYAEEIKC.jpg"}
+{:description=>"grilled tombo mahi mahi on a butter lettuce salad with radish, pickled onions, citrus &amp; sherry vinaigrette", :photo=>"ByZSlQOIMAAWOvP.jpg"}
+{:description=>"Slow Braised Duck Ravioli", :photo=>"ByWFv41CQAA3vWg.jpg"}
+{:description=>"Salad of Herb Stuffed Calamari, Pickled Fennel,Tomatoes, Fingerlings Green Olives, Tender Greens, Lemon Vin.#TGUTC", :photo=>"ByV0DUvIQAECdfb.jpg"}
+{:description=>"Soba Noodle w/ Crispy Octopus, Preserved Lemon, Red Peppers, Citrus, Shishito Peppers, Thai Basil &amp; Peanuts", :photo=>"ByVxlYaCUAE8Gt1.jpg"}
+{:description=>"sesame crusted pork tender loin on a bed of white rice with Apple fig teriyaki sauce", :photo=>"ByVm7wxIcAEmMZt.jpg"}
+{:description=>"Garganelli Pasta, Braised Beef, Arugula, Butternut Squash, Parmesan", :photo=>"ByVcl5pCUAAa_qI.jpg"}
+{:description=>"Kalua Pork Tacos Cabbage and Pickled Onion Slaw Served w/ Hawaiian Style Macaroni Salad", :photo=>"ByUQsxNCAAA6_r-.jpg"}
+{:description=>"Achiote Grilled Salmon, Pickled Red Onion, Grilled Corn, Romaine, Lime Dressing", :photo=>"ByUNMelCcAAcI4b.jpg"}
+{:description=>"chicken tostada, heirloom tomatoes, caramelized onion w/ romaine salad of avocado, queso fresco", :photo=>"ByUFcnFCYAAHi3c.jpg"}
+{:description=>"Carnitas Tacos. Apple Salsa, Onions. Radishes, Queso Fresco Romaine Tortilla Strips Tomatoes Cilantro Lime Vi", :photo=>"ByQpcYzIAAAMyeO.jpg"}
+{:description=>"Pork belly with charred baby broccoli, creamy herb polenta, sweet pepper coulis, and roasted grapes.", :photo=>"ByQmi4fCEAATGHh.jpg"}
+{:description=>"maple glazed pork loin, parmesan polenta, scarborough farms arugula, honey crisp apples, and brussels sprouts", :photo=>"ByQl-w_CUAA65nv.jpg"}
+{:description=>"Chicken cacciatore, creamy polenta, wild arugula, heirloom tomatoes, red peppers, Cabernet vin", :photo=>"ByQeEBSCUAA63_e.jpg"}
+{:description=>"Big Panzenella Salad w/ P. Balistreri Salumi, Heirloom Tomatoes, Basil, Shishito Peppers, Olives, Parmesan", :photo=>"ByPL6c9CYAAxcj7.jpg"}
+{:description=>"P. Balistreri rosemary salumi with roasted tomatoes, fennel and Scarborough farms arugula.", :photo=>"ByPADpkCMAAuKSj.jpg"}
+{:description=>"big salad of roasted apples, bacon, candied walnuts, blue cheese, pickled onion, butter lettuce", :photo=>"ByO_3iuCEAAVLF1.jpg"}
+{:description=>"grilled calamari steak, charred lemon, tender green salad with house made pickles and red quinoa.", :photo=>"ByO_vzVCUAAgVUA.jpg"}
+{:description=>"Eggplant Parmesan Lasagna. Marinara. Greens. Green Olives, Shaved Fennel &amp; Radish. Sherry Vin.", :photo=>"ByLbTRQCMAAb-pX.jpg"}
+{:description=>"Dinner Spec: Soba Noodle Salad with Silky Tofu, Marinated Cucumbers, Carrots and Tomatoes, Mint, Green Onion", :photo=>"ByLYoreCcAAaQJD.jpg"}
+{:description=>"Roasted Apple Flat Bread, Garlic-Herb Olive Oil, Caramelized Onions, Arugula, Goat Cheese, Butter Lettuce", :photo=>"ByLXk0kCYAEPFJS.jpg"}
+{:description=>"Eggplant Parmesan Sandwich, Mozzarella &amp; Tomato Sauce Baby Spinach Salad, Tomato &amp; Basil, Lemon Vin.", :photo=>"ByJ9JK1CcAAtZfA.jpg"}
+{:description=>"zucchini panini, Parmesan, arugula&amp;mustard sauce. Salad of apples, candied walnuts &amp; sherry vin", :photo=>"ByJ4gG6CUAAri0t.jpg"}
+{:description=>"Healthy Mediterranean Plate Smoky Eggplant Spread, Pita Bread, Heirloom Tomato Greek Salad, Crisp Falafel", :photo=>"BxG3xc5CYAIqIVf.jpg"}
+{:description=>"Special Side: Grilled Heirloom Tomatoes, Taleggio &amp; Balsamic Reduction", :photo=>"ByGUcnxCIAA0wDt.jpg"}
+{:description=>"House Fettuccine Alfredo with Charred Broccolini, Lemon Zest &amp; Shaved Parm", :photo=>"ByGP49PCcAEJMpb.jpg"}
+{:description=>"braised beef over spaghetti squash and rainbow chard topped with romesco sauce", :photo=>"ByGPa6DCcAAEwjI.jpg"}
+{:description=>"Special Side of Gonestraw Farms Deviled Duck Eggs, w/ Arugula &amp; Smoked Paprika", :photo=>"ByE9n8_CYAAopeQ.jpg"}
+{:description=>"Smoked Albacore w/ Grebiche, Baby Greens, Radishes, Fennel, Pickled Squash, Zucchini, Peppers, Sherry Vin", :photo=>"ByE8BeNCcAAG0jy.jpg"}
+{:description=>"quinoa pancakes,house smoked,maple glazed bacon,mascarpone cream,fresh blackberries, &amp; salad of tender greens", :photo=>"ByE2LioCUAAcKFN.jpg"}
+{:description=>"Healthy Mediterranean Plate Smoky Eggplant Spread, Pita Bread, Heirloom Tomato Greek Salad, Crisp Falafel", :photo=>"BxG3xc5CYAIqIVf.jpg"}
+{:description=>"Special: House Cured &amp; Smoked Coho Salmon,Tender Greens,Cucumber,Caraway Croutons,Lemon Cream Cheese Dressing", :photo=>"ByE02sKCIAASH1x.jpg"}
+{:description=>"Special Side of Gonestraw Farms Deviled Duck Eggs w/ Arugula &amp; Smoked Paprika", :photo=>"ByBM6wbCcAA5E-m.jpg"}
+{:description=>"Flank Steak Roulade w/ Salsa Verde, Swiss Chard Fondue &amp; Parmesan Polenta. Greens, Pickled Squash, Sherry Vin", :photo=>"ByBMsEMCAAAL-9W.jpg"}
+{:description=>"Guatemalan Bistec, flat iron steak, braised onion, tomato, cinnamon, orange, roasted potatoes, jasmine rice.", :photo=>"ByBHhQOCIAAQIZl.jpg"}
+{:description=>"White wine mussels with mustard cream sauce, rainbow chard and bacon", :photo=>"ByA8A9BCEAEaS2v.jpg"}
+{:description=>"Local Organic Arugula, Salami, Point Reyes Blue Cheese, Local Grapes, Basil, Candied Walnuts, Balsamic Vin", :photo=>"Bx_z-cOCQAAaDaW.jpg"}
+{:description=>"Pork loin sandwich, fig jam, caramelized onion, arugula, baby greens, shaved fennel, apple, sherry vinaigrette", :photo=>"Bx_v9YZIIAAsCZB.jpg"}
+{:description=>"Special: Blackened salmon, Avocado,Cucumber,Picked Radishes,Crispy Onion Petals,Butter Lettuce,Dill Dressing", :photo=>"Bx_s4cACAAEvDSX.jpg"}
+{:description=>"House Made Bratwurst, Lemon Spaetzle, Tarragon Dijon Cream, Tender Greens, Cucumbers,Tomatoes, Dill Dressing", :photo=>"Bx8G0DMCUAAJR8P.jpg"}
+{:description=>"Special Side of Baked Penne in a Creamy Parmesan Sauce, Corn, Sweet Peppers &amp; Fresh Herbs", :photo=>"Bx8COonCEAEbyoR.jpg"}
+{:description=>"Farfalle w/ Flat Iron Steak &amp; Point Reyes Blue Cheese Sauce. Spinach Salad w/ Apples, Walnuts, Balsamic Vin", :photo=>"Bx8CB3cCYAAG7C6.jpg"}
+{:description=>"Slow Cooked Bolognese, Fettuccine, Baby Greens, Pickled Onion, Green Beans, Marinated Olives, Cab Vinaigrette", :photo=>"Bx8A4dCCEAAi4TD.jpg"}
+{:description=>"Roasted Chicken, Grape &amp; Walnut Salad, Fresh Tarragon &amp; Aioli, Served as Salad or Sandwich w/ Butter Lettuce", :photo=>"Bx6kAEOCAAEBMRd.jpg"}
+{:description=>"Special Side: Shaved Granny Apple, Shaft Bleu Vein, Candied Walnuts, Balsamic Reduction, Celery Leaves", :photo=>"Bx6jY7QCMAAnAAm.jpg"}
+{:description=>"P. Balistreri salumi, roasted tomatoes, Soledad farms goat cheese", :photo=>"Bx6g2E-CMAEkPS5.jpg"}
+{:description=>"Mediterranean Plate Smoky Eggplant Spread, Pita Bread, Heirloom Tomato Greek Salad, Crisp Falafel", :photo=>"BxG3xc5CYAIqIVf.jpg"}
+{:description=>"House Made Merguez, Spiced CousCous, Tomato Harrissa, Frisee Salad", :photo=>"Bx6Z90WCUAAoTXO.jpg"}
+{:description=>"baked chicken veggie &amp; penne pasta with a Parmesan cream sauce baby spinach oranges beets &amp; lemon vinaigrette", :photo=>"Bx29IbNCYAAxLsf.jpg"}
+{:description=>"Housemade Bratwurst, Sauerkraut,German Potato Salad; Baby Spinach, Tomatoes, Cabernet Vinaigrette", :photo=>"Bx23xzYCIAAtzeh.jpg"}
+{:description=>"Seafood&amp;Saffron Risotto Gulf Shrimp Calamari PEI Mussels Spinach Cherry Tomatoes Saffron Risotto", :photo=>"Bx1aJjaCUAA-AA7.jpg"}
+{:description=>"Side: Shoemaker Farm Figs, Warm Taleggio, Candied Walnuts, Baby Arugula, Balsamic Reduction", :photo=>"Bx1Vx4zCIAAzS-p.jpg"}
+{:description=>"Tuna Carpaccio, Tom, Suzie's Farm Green Beans, Papaya &amp; Cilantro, Greens, Ginger Vin", :photo=>"Bx1VulbCQAAeImb.jpg"}
+{:description=>"Albacore Conserva Sandwich w/ Katie's House Pickles, Scallions, Lemon Caper Aioli, Spinach Organic Baby Salad", :photo=>"Bx1VEYJCEAA_wWM.jpg"}
+{:description=>"Grilled Coho Salmon, Bordelaise Sauce, Farro Salad, Arugula", :photo=>"Bx1T5JdCYAAQVDs.jpg"}
+{:description=>"Spaghetti Frutti di Mare Mussels, Albacore Tuna, Tomatoes, White Wine, Garlic, Chili Flakes, Butter, Parsley", :photo=>"BxxpGp1CIAA8Y0-.jpg"}
+{:description=>"Special Side - Local figs with point Reyes bleu cheese, arugula and balsamic vinaigrette.", :photo=>"BxxhBO_CYAAKM6H.jpg"}
+{:description=>"Big salad of spinach &amp; mizuna, P. Balistreri salumi, local melons, goat cheese, shishito peppers, &amp; almonds.", :photo=>"Bxxgk0aCEAAm-Ym.jpg"}
+{:description=>"BLT, House Cured &amp; Smoked Applewood Bacon, Butter Lettuce, Heirloom Tomatoes, Tender Greens, Zucchini Pickles", :photo=>"BxwNTOnCcAAjHDQ.jpg"}
+{:description=>"Smoked Brisket Sandwich, Sriracha Bbq Sauce, Aioli, Romaine Salad", :photo=>"BxwJNWECMAACJha.jpg"}
+{:description=>"Chicken and Vegetable Lasagna w/ Acorn Squash Purée, Goat Cheese &amp; Parm.Greens Salad w/ Figs, Hazelnuts &amp; Cab", :photo=>"BxsmMtuIUAA1tEq.jpg"}
+{:description=>"House made Italian sausage Cassoulet beans, roasted trumpet mushrooms, baby kale, green beans, sherry vin", :photo=>"BxsfUqzCcAELjtg.jpg"}
+{:description=>"Slow Cooked Pork Cheeks. Spaghetti Squash. Cilantro, Queso Fresco. Greens. Shaved Corn, Radish. Chili Lime Vin", :photo=>"Bxsem20CYAA4sjg.jpg"}
+{:description=>"Grilled Wild Coho salmon, heirloom tomatoes, corn, farro wheat, roasted squash purée, tender greens", :photo=>"Bxsc9aiCAAAkwFW.jpg"}
+{:description=>"Summer Pasta Shells w Roasted Pepper &amp; Parmesan Cream Sauce, Tomatoes, Squash, Corn, Spinach Salad", :photo=>"BxrKOmaIYAEXIAd.jpg"}
+{:description=>"Albacore Tuna Wrap. Lemon, caper, and dill aioli. Served with a light and refreshing tender green salad. Nice.", :photo=>"BxrFhE8IAAAYUvh.jpg"}
+{:description=>"Pulled Pork Sandwich, Fallon Hills Pork, Carolina Bbq Sauce, Cole Slaw, Kale Salad", :photo=>"BxrA-FVCQAA0TCy.jpg"}
+{:description=>"Grilled Coho salmon salad, watermelon radish, fingerlings, cucumber&amp;onion, TG, arugula&amp;lemon vin", :photo=>"Bxq9dW0CUAE_OuH.jpg"}
+{:description=>"Salad of Crispy Calamari, Marinated Garbanzos, Shaved Fennel &amp; Cuc, Heirloom Tom, Crmy Dijon Dressing", :photo=>"Bxq7Er8CAAE9OKY.jpg"}
+{:description=>"Acorn Squash Ravioli w/ Duck Egg Pasta, Pan Squash, Hazelnuts, Thyme Brown Butter, Parmesan. Tender Greens", :photo=>"BxnZmItCYAA0jmM.jpg"}
+{:description=>"Eggplant Parmesan with heirloom tomato marinara, Parmesan, focaccia bread", :photo=>"BxnWSJwCIAA8k0m.jpg"}
+{:description=>"Rosemary Potato Gnocchi. Vegetables. Marinara Sauce. Baby Greens. Pickled Onions, Shaved Cucumber. Sherry Vin.", :photo=>"BxnSAvUIMAE7Ikd.jpg"}
+{:description=>"Special Side: Local Figs, Shaft Bleu Vein Cheese, Smoked Almonds &amp; Arugula", :photo=>"Bxl64QFCYAAnitW.jpg"}
+{:description=>"Big Salad of Marinated Artichokes, Quinoa, Radish, Vella Dry Aged Jack Cheese, Tender Greens, Lemon Vin.", :photo=>"Bxl6lYkCYAA-H22.jpg"}
+{:description=>"Quinoa Pancakes, Roasted Apples, Caramel &amp; Maple Swt Cream, Spin, Grapes &amp; Candied Walnuts", :photo=>"Bxl3EYoCEAAmSSQ.jpg"}
+{:description=>"Rosemary flatbread roasted tomato summer squash goat cheese pickled onion arugula garlic vinaigrette", :photo=>"Bxlz8DaCAAEudxm.jpg"}
+{:description=>"Former foster youth find fresh start at expanding", :photo=>"BxSRrzEIIAAAVu6.jpg"}
+{:description=>"filet mignon tacos, pico de gallo with avocado, chimichurri, micro cilantro", :photo=>"BxiX_cFCMAA_GsB.jpg"}
+{:description=>"Slow beer braised beef with spicy pepper and roasted garlic risotto", :photo=>"BxiFK7HCAAAG30p.jpg"}
+{:description=>"special side shoemaker farm figs strawberry-guavas walnut hibiscus reduction", :photo=>"BxiALofCUAAaNPK.jpg"}
+{:description=>"Albacore Poke Salad, Avocado, Cucumber, Scallions, Sesame Seeds, Wontons, Asian Greens, Sesame Vinaigrette", :photo=>"Bxg3kwvCIAAMMws.jpg"}
+{:description=>"sloppy joe with fried onion rings with a spinach salad cucumber lemon dressing", :photo=>"BxgxkgnCUAIqo2M.jpg"}
+{:description=>"cuban style pork loin,cranberry bean ragout&amp; roasted veggies", :photo=>"Bxgwzv9CIAEhpoL.jpg"}
+{:description=>"Housemade fettucine, pork and beef meatballs, San Marzano tomato sauce, parsley, Parmesan", :photo=>"BxdKRuuCQAAvFux.jpg"}
+{:description=>"Spaghetti ala Carbonara. Duck Egg Spaghetti, House Cured Bacon, Peas, Parmesan, Parsley. Romaine, Cabernet", :photo=>"BxdJRvkCMAAElNI.jpg"}
+{:description=>"Crispy Smoked Pork Belly. Kale Polenta. Poached Duck Egg. Greens. Tomatoes, Shaved Corn. Sherry Vin.", :photo=>"BxdGehACQAEf6EN.jpg"}
+{:description=>"homemade breadsticks, San Marzano tomato sauce, Drake's farm goat cheese, fresh basil, parsley, olive oil", :photo=>"BxdFS0UCUAA3jpU.jpg"}
+{:description=>"Beef Lasagna, Ricotta &amp; Parmesan Cheese, Roasted Eggplant &amp; Spicy Peppers, Butter Lettuce, Pickled Fennel, Cab", :photo=>"BxdDwDiCYAAEmdJ.jpg"}
+{:description=>"Brûlée Local Figs w/ Arugula, Goat Cheese, Balsamic Reduction, &amp; Almond Granola", :photo=>"Bxbu-hJCAAA6mLL.jpg"}
+{:description=>"Flank steak Panini w/ Romesco, Swiss Cheese, Roasted Peppers, &amp; Caramelized Onions", :photo=>"BxbuTSmCYAAv213.jpg"}
+{:description=>"smoked,maple glazed bacon,butter lettuce,heirloom tomato,creamy spiced avocado!", :photo=>"Bxbo8wCCAAAv6kt.jpg"}
+{:description=>"Healthy Mediterranean Plate Smoky Eggplant Spread, Pita Bread, Heirloom Tomato Greek Salad, Crisp Falafel", :photo=>"BxbhkN4CEAATSo7.jpg"}
+{:description=>"grilled Scottish salmon, corn succotash, summer squash, red onion, baby peppers, heirloom tomatoes, olive oil", :photo=>"BxYCAhICUAAyeKj.jpg"}
+{:description=>"house made Italian sausage cheddar polenta, salad of tender greens, grilled gypsy peppers and Parmesan cheese.", :photo=>"BxX_sEWCcAAH1Iu.jpg"}
+{:description=>"Chicken, Corn &amp; Sweet Pepper Croquettes, Roasted Pan Squash, Red Pepper Coulis, Parmesan, Creamy Corn Sauce", :photo=>"BxXzXD_CcAAZWWF.jpg"}
+{:description=>"Mango Chipotle BBQ Chicken Sandwich, Guajillo Chili Aioli, Avocado, Pickled Peppers &amp; Shallots", :photo=>"BxWcYokCcAA1Tfs.jpg"}
+{:description=>"shoemaker farms fig salad roasted beets fried goat cheese pickled onions arugula young lettuces", :photo=>"BxWcUELCEAAQFco.jpg"}
+{:description=>"Flank Steak Roulade w/ Arugula Almond pesto, roasted spaghetti &amp; patty pan squash w/ garlic &amp; parsley butter.", :photo=>"BxS3MqCIQAAanqQ.jpg"}
+{:description=>"Roasted pork loin, creamy grits, maple glazed carrots, mesilla pepper jam, spinach, pickled onion, goat cheese", :photo=>"BxSm945CYAACMxH.jpg"}
+{:description=>"free range chicken parmesan sandwich butter lettuce salad w/ heirloom tomatoes &amp; tarragon dressing", :photo=>"BxRLGIxCEAABgsP.jpg"}
+{:description=>"Special: House Smoked Salmon, Tempura Avo, Pickled Shallots, Japanese Cucumber, Tender Greens, Dill Dressing.", :photo=>"BxNqlCyIUAETqrD.jpg"}
+{:description=>"five spice smoked pork belly bao buns with pickled veggies hoisin sauce &amp; guajillo aioli", :photo=>"BxNj3a5CMAEq710.jpg"}
+{:description=>"", :photo=>"BxMXCTeCcAAVMj7.jpg"}
+{:description=>"Grilled Mahi Mahi, Warm Lentil Salad, Heirloom Tomato, Pickled Shallots, Chives, Arugula", :photo=>"BxMHypVCIAAbn9B.jpg"}
+{:description=>"special side: Coho salmon sashimi &amp; orange olive oil", :photo=>"BxMHq9dCcAAFEe-.jpg"}
+{:description=>"salad of house cured bacon, garbanzo beans, pickled red onion, parm,tender greens, kale, &amp; cab vin", :photo=>"BxMHGMICYAEJP-8.jpg"}
+{:description=>"Fried Zucchini Sandwich with Alegria Farms Heirloom Tomato, Summer Squash Pickle and Roasted Poblano Aioli", :photo=>"BxL8IgZCYAAQ-1t.jpg"}
+{:description=>"Big salad of crispy farm fresh duck egg heirloom tomato, pickled shallots, shishito peppers, dry aged jack cheese", :photo=>"BxIc3hFCYAENvh5.jpg"}
+{:description=>"Carnitas Tacos (2) Pico De Gallo Shallots Avocado Crema. Pinto Beans w/ Queso Fresco. Greens Radish. Lime Vin.", :photo=>"BxIZrhVCAAAzlU9.jpg"}
+{:description=>"Prince Edward Island mussels, eggplant caponata and a white wine tomato sauce", :photo=>"BxITi9GIEAA0Al5.jpg"}
+{:description=>"Seared Fort Bragg Rockfish, Champ Potatoes, Red Wine Poached Egg, Frisée", :photo=>"BxIP-dSCYAA5nDG.jpg"}
+{:description=>"Heirloom Tomato Salad Bell Peppers Red Onions Cucumbers Tomato Pesto Red Wine Vinegar Honey Dress Burrata Cheese", :photo=>"BxHPzpNCAAADpJs.jpg"}
+{:description=>"Spec. Side: Local Figs w/ Point Reyes Bleu Cheese, Baby Arugula Honey", :photo=>"BxHAELkIcAADgyZ.jpg"}
+{:description=>"Kalua Pork and Cabbage, Jasmine Rice, Heirloom Tomato Relish", :photo=>"BxG_dx8CEAArJ1Z.jpg"}
+{:description=>"Big Salad Of P. Balistreri Salumi, Local Figs, Dry Aged Jack, Candied Walnuts, Balsamic Vinaigrette", :photo=>"BxG-ys8CcAEptvg.jpg"}
+{:description=>"Healthy Mediterranean Plate Smoky Eggplant Spread, Pita Bread, Heirloom Tomato Greek Salad, Crisp Falafel", :photo=>"BxG3xc5CYAIqIVf.jpg"}
+{:description=>"Salad of Coho salmon sashimi, heirloom tomatoes, pickled cucumber, avo, tender greens &amp; sherry vin", :photo=>"BxG3XQyCYAAhoDk.jpg"}
+{:description=>"House made fettucini with seared bay scallops, white corn, sweet peppers, Parmesan cream sauce and fennel fronds.", :photo=>"BxDVAIBCEAAAGze.jpg"}
+{:description=>"Lemon Parmesan Fettucine Pasta. Fennel, Shishitto. Tender Greens. Shaved Radish, Olives. Grilled Orange Vin.", :photo=>"BxDMpIYIMAAg9gY.jpg"}
+{:description=>"Farfalloni pasta with heirloom tomatoes, eggplant, oregano, butter, sunflower seeds and goat cheese", :photo=>"BxDJP1UIYAANbOw.jpg"}
+{:description=>"Grilled Filet of Rock Cod, Fresh Cranberry Bean Cassoulet, lemon &amp; Parsley Relish, Braised Baby Kale", :photo=>"BxB9rmbCcAAH0FE.jpg"}
+{:description=>"Special side - House made potato pierogi with salmon tartare", :photo=>"BxB7z7wCUAANFgF.jpg"}
+{:description=>"Rustic Fisherman's Soup w/ Mussels, Albacore Tuna, Salmon, Tomatoes, Chorizo &amp; A Fine Herb Salad", :photo=>"BxB4fhUCUAACvWo.jpg"}
+{:description=>"Special Side of House Made Ricotta, Quince Marmalade, &amp; Balsamic Reduction on a Crostini", :photo=>"BxB2YXNIMAA80Wn.jpg"}
+{:description=>"Sandwich of heirloom tomatoes, roasted eggplant, lettuce, dijon aioli. salad of figs, goat cheese", :photo=>"BxB0fjgCIAATUE9.jpg"}
+{:description=>"Blackened Salmon, Pickled Watermelon and Sweet Corn Relish, Butter Lettuce, Dill Dressing", :photo=>"BxBzX87CIAA_w1H.jpg"}
+{:description=>"roasted pork chop, potato gratin, port wine sauce, arugula, fennel, lemon vinaigrette", :photo=>"Bw-UhM6CMAAO0pY.jpg"}
+{:description=>"Corn soup, blue corn succotash, tarragon oil, herb crostini", :photo=>"Bw-OxA_CcAEkJK9.jpg"}
+{:description=>"Slow Braised Beef Ragout Goat Cheese Rosemary Polenta Small Salad of Young Lettuces Almonds Sherry Vinaigrette", :photo=>"Bw-KZI2IgAAST7T.jpg"}
+{:description=>"Smoked Bbq PorkBelly Housemade Summer Potato salad Dijon Bbq sauce PL Farm Greens Pickled Shallots Sherry Vin", :photo=>"Bw-H7NyCcAEvKCd.jpg"}
+{:description=>"slow braised beef, potatoes au gratin with tender greens, arugula, marinated olives, cucumber and sherry vin.", :photo=>"Bw-F9R9CIAAzoN4.jpg"}
+{:description=>"Dinner:House Made Fettuccine w Bay Scallops, Marinated Artichokes, Fennel &amp; Shallots, White Wine Butter Sauce", :photo=>"Bw97KFRCcAERN0X.jpg"}
+{:description=>"Lemon &amp; Tarragon Marinated Coho Salmon, Spinach,Pickled Shallots, Fennel, Almonds, Oranges, Lemon Vinaigrette", :photo=>"Bw81m5hIgAAGeit.jpg"}
+{:description=>"Special Side of House Made Ricotta, Fig Jam, &amp; Balsamic Reduction on a Crostini", :photo=>"Bw80-mOIMAAXZKU.jpg"}
+{:description=>"", :photo=>"Bw8vueMCcAAWdMG.jpg"}
+{:description=>"quinoa pancakes,house cured,doublesmoked maple glazed bacon,citrus cream&amp;farmer's market blackberries", :photo=>"Bw8vAP6CYAAyazT.jpg"}
+{:description=>"Coho Salmon. Corn and Shishito Pepper Relish. Melted Tomatoes. Baby Greens. Cucumber and Radish. Lemon Vin.", :photo=>"Bw4_vyHCQAADmcO.jpg"}
+{:description=>"Seared Rock Fish Over A Risotto Salad w/ Figs Smoked Almonds Pickled Shallots &amp; A Citrus Scallion Gremolata", :photo=>"Bw483p9IAAA9XVk.jpg"}
+{:description=>"quinoa-mushroom meatballs Housemade marinara garganelli pasta small salad arugula ricotta salata olive", :photo=>"Bw44Y1lIYAAr5gz.jpg"}
+{:description=>"special side - Mexican street corn with Guajillo pepper aioli, cilantro, and queso fresco.", :photo=>"Bw32RQnCcAAJm9Q.jpg"}
+{:description=>"Big Salad of Butter Lettuce w/ Mango Rock Fish Ceviche, Blistered Shishito Peppers, Citrus &amp; Fried Avocado", :photo=>"Bw3z01pIEAE93Pw.jpg"}
+{:description=>"Rock cod ceviche w/housemade tortilla chips served w/ a salad of butter lettuce,corn,parm cheese &amp;lemondressing", :photo=>"Bw3oWpxCIAA0Dqf.jpg"}
+{:description=>"Tuna Poke Stacks, Avocado, Cucumber, Jimaca, Crispy Wontons, Mizuna, Tatsoi, Citrus, Sesame Dressing", :photo=>"Bw3hodKCMAAnsxi.jpg"}
+{:description=>"Special:Teriyaki Grilled Coho Salmon,Shaved Carrot,Japanese Cucumber,Heirloom Tomato,Little Gem &amp;Ginger Vin.", :photo=>"Bw3cylDCEAAxqoI.jpg"}
+{:description=>"Bay scallop tacos with mango heirloom tomato salsa, coconut cabbage slaw, and Guajillo pepper aioli.", :photo=>"Bwz6VnWCQAAsRUl.jpg"}
+{:description=>"Salad of Duck Confit, Fig Gastric, House Made Granola, Grapes, Arugula, Goat Cheese, Golden Balsamic Vin", :photo=>"Bwz4T-XCYAAdI4N.jpg"}
+{:description=>"slow cooked bolognese with house made fettuccini, baby greens, greens olives, &amp; heirloom tomatoes", :photo=>"Bwz1ehHIEAA4HT_.jpg"}
+{:description=>"Pan seared striped bass, Manila clams, crispy chorizo, Cherry tomatoes, broccolini, garlic, lemon wine sauce", :photo=>"Bwz1HwqCYAEGrwx.jpg"}
+{:description=>"maple glazed pork belly over slow braised white beans and kale w/ arugula cucumber radish sherry dressing", :photo=>"BwzztHEIgAAgHs8.jpg"}
+{:description=>"Kung Pow Chicken w/ Jasmine Rice, salad of Chinese salad, and a sesame dressing", :photo=>"BwzyRSmCUAAFlfo.jpg"}
+{:description=>"Best tomato soup I've ever had. No lie.", :photo=>"BwysNhxCYAEscVL.jpg"}
+{:description=>"Plate,smoky eggplant spread,housemade pita bread,tomatoGreek salad, falafel,spinach&amp; lemondressing", :photo=>"BwynL__CQAASogf.jpg"}
+{:description=>"Local Figs w/ House Made Ricotta, Wild Arugula w/ a Balsamic Reduction", :photo=>"BwyfRoxIgAAZTj5.jpg"}
+{:description=>"Coho Salmon Carpaccio w/ Horseradish Crème Fraiche, Fried Capers &amp; Artichokes w/ Sea Salt and Wild Arugula", :photo=>"Bwye6iJIQAAo9Vo.jpg"}
+{:description=>"Special side - Eggplant Croquettes", :photo=>"BwyXVR5CcAAkq8I.jpg"}
+{:description=>"Grilled Mahi Mahi, Ginger Soy Marinade, Little Gem Lettuce, Tomato, Seaweed Salad", :photo=>"BwyW22kCEAEP2YU.jpg"}
+{:description=>"BLT Sandwich, house cured bacon, heirloom tomatoes, butter lettuce, arugula and fig salad with sherry vin", :photo=>"BwyVUzPCAAAJ7g9.jpg"}
+{:description=>"Kung pao chicken, served with white jasmine rice and tender greens side salad", :photo=>"BwvBoGSCUAAmvnq.jpg"}
+{:description=>"special side 2: heirloom tomatoes fried drakes farm goat cheese arugula balsamic reduction", :photo=>"BwuzhNZCIAAvpVd.jpg"}
+{:description=>"pan seared coho salmon sweet corn purée caramelized fennel blistered witches finger peppers heirloom tomatoes", :photo=>"BwuzUo4CAAA_O-D.jpg"}
+{:description=>"special side local figs shaft blue vein cheese arugula", :photo=>"BwuzUGdCYAEGyhz.jpg"}
+{:description=>"Housemade Rabbit Ravioli, Fennel Purée, Arugula, Heirloom Tomato, Parmesan", :photo=>"Bwujp9nCYAA-f1x.jpg"}
+{:description=>"Ruben w/ House Made Pastrami, Sauerkraut &amp; Special Sauce on Rye, Salad of Tender Greens, Shaved Radish", :photo=>"BwtZEItCUAIVmuZ.jpg"}
+{:description=>"Tuna Conserva Wrap, Aioli, Arugula, Tomato, Romaine Simple Salad", :photo=>"BwtKhXWCcAAXD4T.jpg"}
+{:description=>"", :photo=>"BwtHuulCUAA61-Z.jpg"}
+{:description=>"house made pastrami roasted potatoes aromatic veggies house sauerkraut mustard burre Blanc", :photo=>"BwpoFMwCAAAZFeJ.jpg"}
+{:description=>"Healthy Mediterranean plate, smoked eggplant spread, house made pita bread, heirloom tomato Greek salad.", :photo=>"Bwpj75mCUAAfIK-.jpg"}
+{:description=>"house made seafood fettuccini, olive oil poached rock fish &amp; stewed calamari", :photo=>"BwpZ_QLCQAAU80O.jpg"}
+{:description=>"Housemade potato gnocchi alegeria farms tomatoes squash olive creamy hazelnut-arugula pesto", :photo=>"BwpXiV0IMAAlSJ9.jpg"}
+{:description=>"I'm just gonna go ahead and say it. has THE best mashed potatoes in San Diego.", :photo=>"Bwomm_VCEAAyhZE.jpg"}
+{:description=>"Seared Rock Fish, Marinated Tomatoes, Shaved Fennel, Cucumbers, Quinoa, Cherry Tomatoes, Picked Basil", :photo=>"BwoGa4dCUAAEncs.jpg"}
+{:description=>"bulgar wheat, house cured bacon, chilies, soft scrambled organic eggs.", :photo=>"BwoEWYoCMAARZ8N.jpg"}
+{:description=>"\"PLT\" Honey Glazed Pork Belly, Heirloom Tomato, Butter Lettuce, Arugula Salad", :photo=>"BwoC929CMAEEq9X.jpg"}
+{:description=>"Farfalle pasta with heirloom tomatoes, Parmesan cream sauce, basil, tarragon, and lemon breadcrumbs.", :photo=>"Bwkk_CJCYAAqQCD.jpg"}
+{:description=>"Moroccan spiced confit of duck, cassoulet beans, crisp carrot chips, baby kale, pickled cucumbers &amp; pine nuts", :photo=>"Bwkf3TPCcAEx4G7.jpg"}
+{:description=>"Housemade heirloom tomato-eggplant lasagna alegeria farms basil creamy tomato sauce salad of young lettuce", :photo=>"BwkaEn4IYAAwV1n.jpg"}
+{:description=>"Grilled zucchini and roasted corn lasagne with a prosciutto crisp", :photo=>"BwkZYY-IgAA48fg.jpg"}
+{:description=>"Cajun Shrimp Tacos. Corn Relish, Purple Canbbage. Chipotle Cream Sauce. Romaine. Cucumber, Avocado. Lime vin.", :photo=>"BwkNpCTCYAAKb20.jpg"}
+{:description=>"Salad Special - Grilled Figs, Rosemary Bacon, Marcona Almonds, Blue Cheese, Fresh Greens Mix", :photo=>"Bwi-LSrCIAAKC50.jpg"}
+{:description=>"chicken,vegetable&amp;mushroom turnover with a tender greens,corn&amp;parm cheese salad.", :photo=>"Bwi958FCMAEHE4C.jpg"}
+{:description=>"Panzanella Salad, P. Balistreri Prosciutto, Boiled Duck Egg, Heirloom Tomatoes, Grilled Bread, Olive Tapenade", :photo=>"Bwi7hBHCQAAfJ9B.jpg"}
+{:description=>"Grilled Trout, Little Gem Lettuce, Spiced Almond, Green Beans, Lemon Confit", :photo=>"Bwi6d54CEAATWsw.jpg"}
+{:description=>"Salad of salami, summer ratatouille of heirloom tomato and eggplant, zucchini, parmesan, garlic vin", :photo=>"BwiwZn1CcAARRGF.jpg"}
+{:description=>"Gnocchi. Tomato sauce, Queso Blanco Sauce. Shishito Peppers, Fennel. Baby Greens. Shaved Cucumber. Sherry Vin.", :photo=>"BwfQ6pOCMAAZDcL.jpg"}
+{:description=>"Big Salad of Pbalistreri Prosciutto, Fried Herb Goat Cheese, Local Figs &amp; Candied Walnuts and Balsamic Vin.", :photo=>"BwaOsOKCEAAVI5u.jpg"}
+{:description=>"Pan seared duck breast, lentil ragout, frisée, lemon vinaigrette", :photo=>"BwaGc_wCEAAbQiY.jpg"}
+{:description=>"Heirloom tomato,house cured prosciutto, basil pesto, honey dressing, burrata , served with a baby kale, roast figs", :photo=>"BwY4nygCcAAWvkA.jpg"}
+{:description=>"Special Side of Fingerling Potatoes, Sour Cream, Bacon, Chives and Parmesan", :photo=>"BwY4IAWCUAA5kAc.jpg"}
+{:description=>"Smoked Tuna Sandwich, Pickled Peppers, Jam &amp; Arugula Salad of Tender Greens, peppers &amp; Sherry Vinaigrette.", :photo=>"BwY12pFCEAANe3A.jpg"}
+{:description=>"Special:Roasted Bacon, Heirloom Tomato,62 Degree DuckEgg,Parmesan, Arugula,Spinach &amp;Tarragon Dressing", :photo=>"BwY0WFOIEAA8e-R.jpg"}
+{:description=>"Ricotta Parmesan Gnocchi Tomato Marinara Prosciutto Basil. Tender Greens Pickled Peppers Sherry Vinaigrette", :photo=>"BwVA1wuIIAAZra3.jpg"}
+{:description=>"Moroccan confit of duck Cassoulet beans, carrot chips, baby kale, pickled cranberry, pine nuts, micro cilantro", :photo=>"BwU9PVjCAAAYP2J.jpg"}
+{:description=>"All Beef Swedish Meatballs, Horseradish Mashed Potatoes, Cranberry Sauce, Wild Arugula &amp; Kale, Fig Vinaigrette", :photo=>"BwU6CN9CUAA74k6.jpg"}
+{:description=>"Special:Grilled Opah on Bib Lettuce&amp;Freckled Romaine,Heirloom Tomato,Cucumber,Avocado,Shaved Radish,Basil Vin", :photo=>"BwTsbEpCIAECcMb.jpg"}
+{:description=>"Farm Fresh Duck Egg Salad Sandwich w/ Butter Lettuce &amp; Heirloom Tomatoes", :photo=>"BwTp27hCEAAi9Hn.jpg"}
+{:description=>"cheese,jalapeño,Dijon,aioliw/a saladOf tendergreens,Parm,potatochips&amp;goldenbalsamic", :photo=>"BwTgoO_CYAAGbyd.jpg"}
+{:description=>"flank steak roulade, boulger wheat salad, spinach, eggplant, cucumber, pickled onion and lemon-oregano vin.", :photo=>"BwP4GeDCQAAZcJW.jpg"}
+{:description=>"Pork Cheek Ragu, Spaghetti, Parmesan, Baby Greens, Cucumbers, Kalamata Olives, Sherry Vinaigrette", :photo=>"BwP39ueCMAAWZ2a.jpg"}
+{:description=>"Slow Smoked Cuban porchetta spanish rice, plantain chips served with a chipotle salad", :photo=>"BwP0CJfCQAAvN0k.jpg"}
+{:description=>"fig &amp; Pinot noir jam crostini, melted taleggio, arugula &amp; balsamic", :photo=>"BwO4kAqCUAANBHW.jpg"}
+{:description=>"Pastrami Ruben: house made pastrami house sauerkraut house 1,000 island Swiss on Rye", :photo=>"BwO3nTfCMAApfvR.jpg"}
+{:description=>"Special Side: Salumi, Roasted Tomato, Kale", :photo=>"BwOcjwICEAEg5ce.jpg"}
+{:description=>"Parmesan Arancini with Roasted Tomato Sauce", :photo=>"BwOcJd-CMAArFqC.jpg"}
+{:description=>"fish tacos,zesty slaw,poco de gallo,chipotle aioli.salad of butter lettuce &amp;lemondressing", :photo=>"BwOXUyZCQAENnBw.jpg"}
+{:description=>"Big Salad of Pork Loin, Fig Compote, Roasted Walnuts, Grapes, Feta Cheese, Tender Greens &amp; Kale w/Cabernet Vin", :photo=>"BwOU_WACYAAiWWr.jpg"}
+{:description=>"We're back on the menu today. Get Tender Greens delivered to your door in 10 minutes or less.", :photo=>"BwOAo_7CUAAC5cO.png"}
+{:description=>"steak and onion empanada with romaine, shaved radish, corn, pickled onion, heirloom tomato, chili vinaigrette", :photo=>"BwKtm-1CIAAZWqR.jpg"}
+{:description=>"Beef Roulade. Hazelnut Parsley Pesto, Bacon. Spaghetti Squash Browns. Baby Greens. Pickled Onions. Cab Vin.", :photo=>"BwKlxs7IEAEsP2O.jpg"}
+{:description=>"A delicious chicken, leek and mushroom turnover. Served with a a simple salad of arugula and tomatoes. Mmmm...", :photo=>"BwJVe24CMAAJUoO.jpg"}
+{:description=>"9 Hour Chili! Texas style chili-Mac, green onions-cilantro &amp; Greek yogurt. Completed by alovely salad. Yum!", :photo=>"BwJTdiRCQAA3MB2.jpg"}
+{:description=>"Chipotle Rubbed Rare Yellowtail Sandwich, Tomato, Corn Salsa, Romaine &amp; Avocado Aioli, Spinach Salad...", :photo=>"BwJOistCYAATk_w.jpg"}
+{:description=>"Fried Shrimp Po Boy, House Made Sriracha Aioli, Heirloom Tomato, Sweet Corn, Arugula, Sherry Vinaigrette", :photo=>"BwJJlsyCAAA1QsT.jpg"}
+{:description=>"tomato tart with roasted heirloom tomatoes manchego cheese and salad of young lettuces", :photo=>"BwJHiKXCQAAa_28.jpg"}
+{:description=>"Pan Seared Salmon w Shishito Peppers and Crispy Potatoes, White Corn Purée and spicy Heirloom Tomato Coullis", :photo=>"BwFndyPCMAId7IK.jpg"}
+{:description=>"fettuccini with olive oil poached tuna, tomato citrus sauce, heirloom tomatoes, eggplant and capers", :photo=>"BwFkOpaCIAEzVEU.jpg"}
+{:description=>"nice! You made a good choice :) 🔥🔥 thank you", :photo=>"BwFWiutCcAALBFb.jpg"}
+{:description=>"Housemade Cavatelli, Braised Rabbit, Mint, Arugula, Castelvetrano Olives, Heirloom Tomatoes, Feta", :photo=>"BwFVLyTCYAA3IHM.jpg"}
+{:description=>"chicken, leek and mushroom turnover server with a simple salad of arugula, tomatoes and balsic vinaigrette.", :photo=>"BwFSRZECUAEhtJr.jpg"}
+{:description=>"sausage panini,jalapeños,chipotle aioli,fontina cheese,avocado&amp;zesty slaww/ an arugula,tomato&amp;parm salad.", :photo=>"BwEFVenCEAADuvS.jpg"}
+{:description=>"big salad of prosciutto, figs, beets, candied walnuts, blue cheese, arugula &amp; balsamic vin", :photo=>"BwEEADrCYAAXEsp.jpg"}
+{:description=>"House Smoked Pork Belly on Farro, Leeks, Oregano &amp; Kale Salad.", :photo=>"BwEDXjACIAAt5Bc.jpg"}
+{:description=>"Big Salad of Marinated Salmon Crudo, Heirloom Tomatoes, Eggplant Caponata, Pickled Peppers, Croutons", :photo=>"BwEDNYCCQAEr0pH.jpg"}
+{:description=>"Grilled Achiote Salmon, pickled watermelon relish, Little Gem Lettuce, Lime Dressing...", :photo=>"BwEAikGCYAASx0U.jpg"}
+{:description=>"Chili Guajillo rubbed yellowtail over a summer vegetable succotash, romesco purée, and crispy shallots.", :photo=>"BwAc8UACAAIC4vz.jpg"}
+{:description=>"Pan Seared Yellowtail, Cannellini Beans, Basil Pesto,Tomato Jam,@ScarboroughFarm Greens, Corn, Garlic Dressing", :photo=>"BwAXgP2CEAAub-X.jpg"}
+{:description=>"Grilled Yellowtail tostada w/ chipotle aioli, kale slaw and tomatillo peanut salsa", :photo=>"BwAL8a-CcAAo36i.jpg"}
+{:description=>"Tender Greens\"BLAT\"house cured-maple glazed bacon,avocado, tomatoes,served w/zesty slaw,salad of tender greens!", :photo=>"Bv--clJCAAAl4O2.jpg"}
+{:description=>"Chili Guajillo Rubbed Yellowtail, Summer Rice, Anaheim Chilies, Heirloom Tomatoes, Onions, Cilantro Bur Blanc", :photo=>"Bv-5oYpCEAE4YpB.jpg"}
+{:description=>"Grilled Bratwurst, sauerkraut, grilled onions, while grain mustard, blistered padron peppers", :photo=>"Bv-3N40CYAANKU-.jpg"}
+{:description=>"chicken and bulgar wheat cakes with salad if kale young lettuces cherry tomatoes cucumber onion creamy dressing", :photo=>"Bv-sbHiCEAAibdM.jpg"}
+{:description=>"Fig &amp; Pinot Noir Jam, Taleggio Cheese, Arugula, &amp; Balsamic on A Crostini", :photo=>"Bv7SFCVIEAEyhCp.jpg"}
+{:description=>"Eggplant Caponata Flatbread, Vella Dry Jack Cheese &amp; Basil. Salad of Fennel, Olives, &amp; A Garlic Vinaigrette", :photo=>"Bv7RssFIUAI6C3A.jpg"}
+{:description=>"House-made double smoked Italian sausage, black beluga lentil ragout, zesty slaw, simple arugula salad", :photo=>"Bv7PCPnCMAAgTp7.jpg"}
+{:description=>"Pappardelle, pesto, summer vegetables,cherry tomatoes, walnuts, Parm PL farms greens Pickled onion, cucumbers, sherry", :photo=>"Bv7Ol4UCQAAPcZ-.jpg"}
+{:description=>"House made Italian Sausage, Lentil ragout, zesty slaw simple arugula salad", :photo=>"Bv7NSLKCEAAtyZL.jpg"}
+{:description=>"Mt Shasta grilled trout brown rice &amp; lemon relish risotto, with grilled baby eggplant. So light, so delicious!", :photo=>"Bv5zOEdCIAAz655.jpg"}
+{:description=>"burrata, heirloom tomatoes, cucumbers, capers, tender greens, arugula, garlic vin", :photo=>"Bv5xwoJCQAAUEwP.jpg"}
+{:description=>"Squash &amp; Eggplant Panini a Sweet Tomato Jam and Herb Goat Cheese, Arugula Salad, Beets &amp; Balsamic Vinaigrette", :photo=>"Bv5wT37CEAAhlg7.jpg"}
+{:description=>"Side Dish - White Beans, Red Onion, Heirloom Tomato, Green Pepper &amp; Feta", :photo=>"Bv5tZ1pCMAAuiO0.jpg"}
+{:description=>"Grilled Yellowtail Salad with Scarborough Farm's Heirloom Tomato, Papaya, Arugula, Frisée &amp; Lemon Vin.", :photo=>"Bv5s7-ZCMAAtX6D.jpg"}
+{:description=>"Rosemary Flatbread, Suzie's Eggplant, House Goat's Milk Ricotta, Cherry Tom, Pickled Onion", :photo=>"Bv5n_1lCIAA3pho.jpg"}
+{:description=>"Grilled Scottish Salmon, cauliflower purée, Cipollini onions, heirloom Cherry tomatoes, green beans, garlic", :photo=>"Bv2d6CxCcAAzSJK.jpg"}
+{:description=>"House Cured Bacon Salad with Local Figs, Candied Walnuts, Picked Onions and Drake's Goat Cheese", :photo=>"Bv2LPv3CIAAvUT5.jpg"}
+{:description=>"Curry Braised Pork Shoulder Farro w/ Season Vegetables Goat Milk Ricotta Salad of Cucumber Tomatoes Lemon Vin.", :photo=>"Bv2H5ZaCAAEKhtl.jpg"}
+{:description=>"Slow braised beef, spaghetti squash, herbed heirloom tomatoes, baby green salad, beets, fennel and sherry vin", :photo=>"Bv2G3VDIQAEwt3V.jpg"}
+{:description=>"", :photo=>"Bv07UP_IQAElvKe.jpg"}
+{:description=>"“Sunday Dim Sum” baked BBQ pork buns, salad of tatsoi, mizuna, pea shoots, carrots, peanuts, wontons, sesame", :photo=>"Bv0xeKZCIAAsUQT.jpg"}
+{:description=>"serving a refreshing heirloom tomato gazpacho", :photo=>"Bv0oT3cCAAA7Xbd.jpg"}
+{:description=>"currently making chorizo &amp; mozzarella cheese flat bread, fried egg, caramelized onions, avocado, sweet peppers", :photo=>"Bv0neTjCQAANTUG.jpg"}
+{:description=>"Shrimp Risotto, Tomato Coulis, White Beech &amp; Button Mushrooms, Chopped Parsley, White Wine Lemon Sauce", :photo=>"BvxQH_JCUAAAq7i.jpg"}
+{:description=>"Braised Duck Leg Adobo, Bulgar Wheat Salad (Green Beans, Carrots, Peppers) Mizuna &amp; Tatsoi, Oranges, Lemon Vin", :photo=>"Bvw7AjRCcAAO5Bw.jpg"}
+{:description=>"special: Beer Battered Pollock and Chips with Celery Root Slaw and Tender Greens Salad", :photo=>"Bvw5mRQCYAIg7I5.jpg"}
+{:description=>"Fish &amp; Chips w/ Beer Battered Pollock &amp; Kennebec Chips w/ a Celery Root Remoulade &amp; Jalapeño Tarter Sauce", :photo=>"BvvwmFbCcAAiK9Y.jpg"}
+{:description=>"side of heirloom tomatoes with couscous, cucumber and feta", :photo=>"BvvfVaNCIAAZFx9.jpg"}
+{:description=>"Caprese salad w/ house cured bacon, heirloom tomatoes, mozzarella cheese, and avocado", :photo=>"BvvfL2NCIAAVwfb.jpg"}
+{:description=>"Heirloom Cherry Tomato Bruschetta, Cook's Garden Basil, Balsamic Reduction", :photo=>"Bvvb74QCEAEZCOf.jpg"}
+{:description=>"Local Stone Fruit w/ Burrata, Olive Oil, Sea Salt", :photo=>"BvvbyDWCQAIFm9R.jpg"}
+{:description=>"Hand-Made Porchetta de Testa, Arugula, Roasted Red Pepper, Mustard Aioli, Toasted Ciabatta, Tender Greens", :photo=>"Bvvbh-VCIAAy8yA.jpg"}
+{:description=>"Pan Seared Duck Breast, Red Quinoa, Sautéed Spinach, White Beech &amp; Button Mushrooms, Figs, Port Wine Sauce", :photo=>"BvsHzWHCAAAU9Ni.jpg"}
+{:description=>"Beer Battered Soft Shell Blue Crab Tacos w/ White Corn Purée and a Heirloom Cherry Tomato &amp; Mango Salsa", :photo=>"Bvr8N6cCMAATipD.jpg"}
+{:description=>"Yellowtail, Squash Puree, Heirloom Tomatoes, Almond Flakes, Greens,Zucchini, Corn, Sherry Vinaigrette", :photo=>"BvruwweCQAAvpH3.jpg"}
+{:description=>"Pork &amp; Kimchee Stew, Jasmine Rice, Tatsoi, Mizuna, Carrots, Sesame Ginger Vinaigrette", :photo=>"BvrpJZ8CYAAxh0m.jpg"}
+{:description=>"P.Balistreri salumi, smoked almond goat cheese, crostini", :photo=>"Bvqaa4dCcAAie-m.jpg"}
+{:description=>"Fried Soft Shell Crab Sandwich, Heirloom Tomatoes, Red Butter Lettuce, Cayenne Aioli, Organic Baby Salad", :photo=>"BvqUc7OCMAAPS0B.jpg"}
+{:description=>"Honey Glazed Pork Belly Sandwich, pickled watermelon &amp; red onions, aioli, kale simple salad", :photo=>"BvqTZpjCcAA3sit.jpg"}
+{:description=>"- Lemon Meringue tart w/ grapes and smoked almonds and housemade carrot cake", :photo=>"BvqRXqjCAAAPcmN.jpg"}
+{:description=>"Salad of Yellowtail Crudo, Oranges, Radish, Fennel, pickled onion, baby lettuces, golden balsamic.", :photo=>"BvqQPxrCAAEKouM.jpg"}
+{:description=>"House made Chorizo, heirloom tomato pico de gallo, fried potatoes, tortillas and queso fresco", :photo=>"BvmmRWfIAAA-ojz.jpg"}
+{:description=>"House-made Fettuccine. Tomato Sauce. P. balistreri Prosciutto, Parm. Baby Greens, Cucumber, olives, Sherry Vin", :photo=>"BvmmKjNIQAAMvm8.jpg"}
+{:description=>"Summer Risotto, Gypsy Peppers, Roasted Eggplant, Heirloom Tomatoes, Parmesan", :photo=>"Bvmi9ELIcAIcyMd.jpg"}
+{:description=>"Risotto with Tuna, Octopus, Mushrooms, Heirloom Tomato and Arugula Salad.", :photo=>"Bvmh2DPIcAE3g01.jpg"}
+{:description=>"ReRide ranch smoked pork belly bao buns house pickled witch finger peppers carrots radish peanut slaw", :photo=>"Bvmfb7SIEAAOvOu.jpg"}
+{:description=>"Side Dish - Arugula, Pickled Red Onion, Roasted Beets, Nectarines &amp; Feta", :photo=>"BvlbLfPIAAAI5pY.jpg"}
+{:description=>"ReRide Porchetta Di Testa!!!", :photo=>"BvlYN9oIUAMpqGW.jpg"}
+{:description=>"ReRide Porchetta di tasta, salsa verde, pickled mustard seeds, fine herb salad", :photo=>"BvlX8UuIEAAhx-c.jpg"}
+{:description=>"Grilled Yellowtail, Heirloom Tomato Poke, Tendergreens, Sesame Vinaigrette", :photo=>"BvlHemhCUAAMo79.jpg"}
+{:description=>"slow braised beef shortribs red wine sauce seasonal veggies mash potatoes and tender greens salad", :photo=>"Bvh8kHhCcAE6VVj.jpg"}
+{:description=>"Seared Coriander Crusted Yellowtail, Warm Corn Tabouleh &amp; Tarragon Beurre Blanc", :photo=>"BvhiMN9CIAERnmS.jpg"}
+{:description=>"Thyme Mustard Crusted Fallon Hills Pork Loin, Lentil Ragout", :photo=>"Bvhf9_4CYAAZZIt.jpg"}
+{:description=>"Gonestraw farms roasted duck breast, garlic thyme risotto &amp; mission fig and honey sauce", :photo=>"BvhdQP5IYAAfhuF.jpg"}
+{:description=>"Brown Sugar Honey Glazed Ham, Cannellini Beans, Shishitos, PLF Baby Greens , Heirloom Cherry Toms, sherry VIn", :photo=>"BvhZbOKCAAEQqeD.jpg"}
+{:description=>"Octopus Salad, fingerling potato,bell peppers, olives,shaved fennel,frisee,arugula&amp; lemon dressing", :photo=>"BvgHQZ3CUAArFEf.jpg"}
+{:description=>"special side - Reride Ranch Pork Terrine, Pickled onions, mustard, grilled bread $5", :photo=>"BvgBKCWCMAA44J-.jpg"}
+{:description=>"Yellowtail Sandwich, Heirloom Tomatoes, Butter Lettuce, Sweet Pepper Aioli, Romaine Hearts, Corn, Peppers...", :photo=>"Bvf-xOwCMAImk6E.jpg"}
+{:description=>"Grilled Salmon, Spicy Peach Glaze, Little Gem, Radish, pickled onions, golden balsamic", :photo=>"Bvf9fjtCIAE_G_X.jpg"}
+{:description=>"Ravioli of duck, black lentil, pickled cranberries, thyme butter sauce, baby kale, sherry dressing and parmesan", :photo=>"BvcYFuxCIAAwnWT.jpg"}
+{:description=>"Local mussels steamed in P. Balistreri salumi, white wine, heirloom tomatoes, kale, crispy fingerlings.", :photo=>"BvcYC3hCYAAUqX-.jpg"}
+{:description=>"Scarborough Farm's Heirloom Tomato, Fresh Basil, Ricotta Salata &amp; Aged Balsamic", :photo=>"BvcVtaFCcAAZ5gZ.jpg"}
+{:description=>"Steamed Mussel &amp; Clams Stew with Leeks, Fingerling Potato, Carrots.", :photo=>"BvcVKAUCAAACHA2.jpg"}
+{:description=>"Strozzapretti Pasta, Basil Pesto, Corn, Heirloom Tomatoes, Bacon, Summer Squash, Parmesan", :photo=>"BvcTNFYCQAEGJdK.jpg"}
+{:description=>"recata basil agnolotti pasta, lemon beurre blanc, grilled summer squash and corn", :photo=>"BvcTHMJCAAAeeQZ.jpg"}
+{:description=>"cookies &amp; cream cupcakes", :photo=>"BvbI-YXIUAA5PXD.jpg"}
+{:description=>"pancakes,smoked maple-glazedbacon,lemoncream, agave syrup,dapple plums w/ a tender greens salad w/parm", :photo=>"Bva50hlCYAEkXVX.jpg"}
+{:description=>"Big Salad of Grilled Rare Local Yellowtail, PL Farms Oranges, Fennel, Pickled Onions, Butter Lettuce", :photo=>"Bva3LrACcAEtX8q.jpg"}
+{:description=>"Big salad of house cured bacon, heirloom tomatoes, tender greens &amp; arugula, garlic vin", :photo=>"Bva0CcYCQAAPn2W.jpg"}
+{:description=>"P. Balistreri craft salad with local heirloom ingredients!", :photo=>"BvavUYmIUAEy_-1.jpg"}
+{:description=>"Grilled Coho Salmon, Hazelnut Pesto Potatoes &amp; Green Beans, Spin &amp; Heirloom Tom, RRP, GB Vin.", :photo=>"BvaunJQCYAATXBz.jpg"}
+{:description=>"Chicken, spinach creamy pasta bake with a salad of tender greens, corn, and parm with a sherry vinaigrette", :photo=>"BvXvHuTIEAEPECb.jpg"}
+{:description=>"Grilled Scottish Salmon, Heirloom Cherry Tomatoes, Canellini Beans, Arugula, Fennel, Grilled Lemon, Olive Oil", :photo=>"BvXO1bTCcAAaJmH.jpg"}
+{:description=>"House Made \"Neat\" Loaf w/ Sweet &amp; Tangy Sauce, Mashed Potatoes, and a salad of Butter Lettuce", :photo=>"BvXMWdfCcAEdBdu.jpg"}
+{:description=>"Grilled Flat Bread, Housemade Made Mozzarella Cheese, Caramelized Onion, Peaches, Arugula &amp; Balsamic Reduction", :photo=>"BvXHH5TCMAAgm69.jpg"}
+{:description=>".@TenderGreens will be back with delicious food at more reason to join us! …", :photo=>"BvWmjFTIgAAePYn.jpg"}
+{:description=>"Delicious Pastry Vegan chocolate rasberry cupcake, Key lime cupcake and creme brulee!!", :photo=>"BvVvIPgCMAAXzuZ.jpg"}
+{:description=>"chicken&amp;spinach turnover,arugula salad w/heirloom tomatoes,cucumber,red onion,feta cheese &amp;lemon dressing", :photo=>"BvVuw9VCMAED4Lk.jpg"}
+{:description=>"Big Salad of Crispy Polenta, Olive Tapenade, Heirloom Tomatoes, Feta, Cucumber, Onion, Lemon Oregano Dressing", :photo=>"BvVsvqWCMAEA46P.jpg"}
+{:description=>"Special Side of Chilled Heirloom Tomato Gazpacho with Grilled Ciabatta", :photo=>"BvVsIOeCEAA5U0k.jpg"}
+{:description=>"Dinner: Stuffed Point Loma Farms Peppers with ReRide Ranch Pork, Queso Fresco, Onions and Cilantro", :photo=>"BvSGHKsCUAIjERJ.jpg"}
+{:description=>"Slow braised beef bacon crumble green lentils and arugula mixed greens shaves fennel pickled onions sherry vin", :photo=>"BvSCXYyCQAAk4bg.jpg"}
+{:description=>"bacon,lettuce, tomato sandwich,chipotle aioli,lettuce.Salad of tendergreens,gypsy peppers, parmesan", :photo=>"BvQsUktCEAEi3t6.jpg"}
+{:description=>"House Cured Bacon &amp; Meatloaf Sandwich, Sweet Heirloom Tomato Aioli, Beer Battered Onion Rings, Arugula, Fennel", :photo=>"BvQki-8CUAAgE1j.jpg"}
+{:description=>"Fried Zucchini Sandwich,Con Pane Baguette,Romaine,Pepper Relish, Chili Aioli,Tender Greens,BBQ Ranch Dressing", :photo=>"BvQiA5GIcAARJAk.jpg"}
+{:description=>"Fish special: Pan roasted Idaho Trout, Frisee, Cherry heirloom tomato, bacon, hazelnut, bacon vinaigrette", :photo=>"BvNBqRmCIAAAHAq.jpg"}
+{:description=>"Big salad of coconut curry poached yellowtail w/ papaya, peppers, citrus, peanuts &amp;Thai chili vinaigrette", :photo=>"BvM3nVgCMAAnra7.jpg"}
+{:description=>"Lunch special:zucchini stuffed w/ground steak, corn, peppers, queso fresco,tender greens salad w/beets &amp;carrots", :photo=>"BvLqKNGCMAU67hl.jpg"}
+{:description=>"Special side: Heirloom tomato, house-cured bacon, bleu cheese, &amp; arugula, topped w/roasted garlic vinaigrette!", :photo=>"BvLh6mvCAAEOKVT.jpg"}
+{:description=>"wrap greek salad,tzatziki,romaine in lavash w/ aspinach salad,tomatoes,cucumbers,lemon dressing &amp; feta", :photo=>"BvLfjcVCMAAqUy0.jpg"}
+{:description=>"Special: Salad of BBQ Tri Tip,Heirloom Tomato,Pickled Scallions,Shaved Corn,Crispy Shallots,BBQ Ranch Dressing", :photo=>"BvLcjijCAAAXP30.jpg"}
+{:description=>"Salmon Crudo, Beets, Mesilla Peppers, Shaved Fennel &amp; Shallots, Arugula, Avo, Heirloom Tomatoes, Citrus Vin.", :photo=>"BvLbw-jCAAEYytI.jpg"}
+{:description=>"Special Side: Shoemaker Farms Honeydew Melon, Shaved P. Balistreri Prosciutto", :photo=>"BvLaxHACIAADSvq.jpg"}
+{:description=>"Housemade Sausage, papparadelle pasta, roasted mushroom, zucchini, squash, rosmesco sauce, parmesan cheese", :photo=>"BvISnz4CQAAC4gI.jpg"}
+{:description=>"Spicy Kung Pao Chicken Spaghetti, Jidori Chicken, Dry Chili Peppers, Green Onions, Peanuts, Kung Pao Sauce", :photo=>"BvIDxy1CMAIqUgx.jpg"}
+{:description=>"Special Side: Fried Squash Blossoms, Housemade Ricotta Cheese, Corn Succotash, Cherry Tomatoes, Spicy Aioli", :photo=>"BvIDCXqCEAAZWdF.jpg"}
+{:description=>"House Made Capellini Pasta, Tomato Cream Sauce, White Corn, Heirloom Tomatoes, Shishito Peppers &amp; Thai Basil", :photo=>"BvH0kf3IAAEwEn8.jpg"}
+{:description=>"House-cured Bacon Panzanella Salad Blistered Tomatoes Watermelon Radish Butter Lettuce Tarragon Vinaigrette", :photo=>"BvGWhFbCQAA4JIT.jpg"}
+{:description=>"sausage panini, onions,aioli,fontina cheese, eggplant &amp;tomato relish,tendergreens w/parm and balsamic", :photo=>"BvGWG9XCYAAzacn.jpg"}
+{:description=>"Special Side P. Balistreri Salumi, Shaved Fennel, Kale and Blistered Tomato", :photo=>"BvGVgv5CEAAhsU4.jpg"}
+{:description=>"Reride Ranch House cured maple bacon BLT, Scarborough farms heirloom tomato and butter lettuce.", :photo=>"BvGUuXACQAA4VOA.jpg"}
+{:description=>"Jerk Chicken, Black Beans, Tostones, Little Gem Lettuce, Lime Dressing", :photo=>"BvGQDSmCcAM8fOc.jpg"}
+{:description=>"Citrus Thai Chili Marinated Yellowtail Heirloom Tomatoes, Shishito Pepper, &amp; Hibiscus Pickled Onions", :photo=>"BvGP4F8CMAAij97.jpg"}
+{:description=>"panzanella salad point Loma farms tomatoes cucumber capers sweet peppers Parmesan arugula tender greens sherry", :photo=>"BvGM7M8CMAM0tDz.jpg"}
+{:description=>"local seared rare yellowtail spicy heirloom gazpacho coconut rice", :photo=>"BvCxvtoCQAAfKri.jpg"}
+{:description=>"Prince Edward Island Mussels Thai yellow curry sauce and pickled papaya salad with peanuts, cilantro &amp; sambal", :photo=>"BvCmVx4CAAITlKX.jpg"}
+{:description=>"House-made Chicken Enchiladas. Re-fried Beans. Tender Greens, Queso Fresca, Cilantro-Lime Vinaigrette.", :photo=>"BvCdIbuCMAA3I6M.jpg"}
+{:description=>"House Smoked Brisket, Peach BBQ Sauce, Summer Succotash of Corn, Mushroom, Bacon,Cornbread, Butter Lettuce", :photo=>"BvCZDYwCAAANh7S.jpg"}
+{:description=>"Duck confit ravioli served over sautéed spinach Parmesan cheese white wine shallot cream sauce", :photo=>"BvCWrs9CUAABdkw.jpg"}
+{:description=>"", :photo=>"BvB5UOWCQAMdiqE.jpg"}
+{:description=>"Special Side of Heirloom Tomatoes, Manchego Cheese, Arugula, &amp; Balsamic Reduction.", :photo=>"BvBKG2JCAAABalf.jpg"}
+{:description=>"Salad of Yellow Tail &amp; Spinach, Golden Beets, Grapefruit, Pickled Basil, Goat Cheese and Citrus Dressing.", :photo=>"BvBJk-ICUAE3m0l.jpg"}
+{:description=>"Smoked Chili Rubbed Brisket Sandwich, Peach Bbq Sauce, Slaw, Kale Simple Salad", :photo=>"BvBD7hACMAEogce.jpg"}
+{:description=>"point Loma farms heirloom tomato side walnut pesto and drake farms goat cheese", :photo=>"BvA9qX0CIAAJqwB.jpg"}
+{:description=>"Shoemaker Farm Fig and Bacon Salad blue cheese walnuts pickled onion balsamic", :photo=>"BvA9RGoCcAEHzQP.jpg"}
+{:description=>"bruleed figs with balsamic reduction and arugula", :photo=>"Bu8A1OUCYAAv0ap.jpg"}
+{:description=>"Tuna Conserva Sandwich, Caper and Kalamata Olive Aioli, Heirloom Tomato, Arugula, Fennel, Lemon Vinaigrette", :photo=>"Bu75lfiCQAAEWFw.jpg"}
+{:description=>"baked eggplant Parmesan hearty tomato sauce Parmesan cheese tender greens salad", :photo=>"Bu4yPFVCMAEi2Xd.jpg"}
+{:description=>"Smoked Pork with Honey Raisin Gastrique, Creamy Polenta &amp; Grilled Figs", :photo=>"Bu4fJaWCQAEwY29.jpg"}
+{:description=>"BBQ Pork Shoulder, Strozzapretti &amp; Cheese Sauce, Arugula Salad", :photo=>"Bu4bJcJCAAAPktk.jpg"}
+{:description=>"Carnitas Tacos Corn Relish Pickled Onions Fresh Salsa. Baby Greens Tomato Cilantro Lime Vinaigrette", :photo=>"Bu4VLu7CYAAdTZg.jpg"}
+{:description=>"Italian pork sausage and pappardelle pasta, slow cooked heirloom tomato sauce and Parmesan cheese", :photo=>"Bu4UsYfCIAAS8Jj.jpg"}
+{:description=>"Vietnam Vietnamese Shakin Beef served with steamed rice,arugula and caramelized red onions.", :photo=>"Bu20gx4CEAA7sjP.jpg"}
+{:description=>"Blackened Catfish Sandwich, Sweet Corn Remoulade, Heirloom Tomato, Little Gem Lettuce, Fennel, Balsamic", :photo=>"Bu20ew_CIAAsimc.jpg"}
+{:description=>"Special side - Reride ranch Pork Medallion w/ BBQ Black Beans, onion, poblano pepper, cabbage slaw", :photo=>"Bu20RK2CIAE2aKJ.jpg"}
+{:description=>"Salad of tempura ricotta-basil squash blossoms, roasted garlic, heirloom tomatoes, pickled onion, butter lettce", :photo=>"Bu2oGikCYAAFRh6.jpg"}
+{:description=>"Hand Cut Pappardelle Pasta, Pork Ragout, San Marzano Tomato Sauce, Chopped Parsley, Parmesan", :photo=>"BuzVG4UCEAACDcM.jpg"}
+{:description=>"Heirloom Tomato Crostata with wild arugula, caramelized onions and feta, balsamic reduction and pesto", :photo=>"BuzC6OXCUAA726I.jpg"}
+{:description=>"Special Side: Bruschetta, Ciabatta, Heirloom Tomatoes, Feta, Cilantro, Parsley, Garlic, Balsamic", :photo=>"Buy89GbCYAAtken.jpg"}
+{:description=>"Honey Glazed Pork Belly, Fingerling Potato Hash, Sweet Corn, Gypsy Peppers, Kale Simple Salad", :photo=>"Buy8kClCIAA6QEC.jpg"}
+{:description=>"Cubano red onions, Swiss cheese, Dijon aioli, ciabatta bread with arugula simple salad,tomato and balsamic", :photo=>"BuxufXvCQAA9Puj.jpg"}
+{:description=>"Big Salad of Heirloom Tomatoes, Sweet Corn &amp; Shishito Pepper Salsa, Polenta Croutons, Pickled Onions...", :photo=>"BuxsmC4CQAAcpqm.jpg"}
+{:description=>"Special side - pasta salad with basil-arugula pesto, feta, summer squash", :photo=>"BuxrP4hCQAAgJ6e.jpg"}
+{:description=>"Salad of Reride Ranch pork loin, Pasilla chile, black beans, corn, onion, tender greens, lime vin.", :photo=>"Buxq5pHCEAMndmW.jpg"}
+{:description=>"grapefruit salad, avocado, pickled onion, radish, queso fresco, tender greens, arugula, Cabernet vin", :photo=>"BuxpZ4OCcAAg98z.jpg"}
+{:description=>"The final product: Rosemary Flatbread, Heirloom Tomato &amp; Eggplant Caponata, Arugula, Parm", :photo=>"BuxlbXqCAAAzfVl.jpg"}
+{:description=>"Chef Peter is cranking out Rosemary Flatbreads for his Lunch Special this morning at", :photo=>"BuxgKLiIUAAAO7b.jpg"}
+{:description=>"Hand Cut Pappardelle Pasta, Pork Ragout, San Marzano Tomato Sauce, Chopped Parsley, Parmesan", :photo=>"BuuMDfHCIAMD0mB.jpg"}
+{:description=>"Roasted Reride Ranch Pork Loin, Spaetzle and Dijon Butter Sauce", :photo=>"BuuDfS5CUAANZSj.jpg"}
+{:description=>"Braised beef creamy rosemary- polenta baby greens heirloom tomatoes torn basil balsamic reduction", :photo=>"But_x77CcAEBnhY.jpg"}
+{:description=>"Heirloom Tomato Salad Peaches, Burrata cheese, balsamic glaze and arugula salad with golden balsamic", :photo=>"BussVLdCcAAN39Y.jpg"}
+{:description=>"Special:Duck Machaca Tacos, Duck Confit &amp; Eggs,Sweet Pepper,Salsa Roja,Heirloom Tomato,Housemade Refried Beans", :photo=>"BusjZIpCUAA2WUN.jpg"}
+{:description=>"Grilled Scottish Salmon, White Corn Succotash, Cipolini Onions, Cherry Tomatoes, Red Bell Peppers, Olive Oil", :photo=>"BupGkvUCUAAe68j.jpg"}
+{:description=>"B.L.A.T Maple bacon, heirloom tomatoes, avocado, lettuce, aioli, jicama slaw, kale salad w/ garlic dressing.", :photo=>"BunshgzCcAAClSr.jpg"}
+{:description=>"PLT Sandwich roasted pork loin, heirloom tomato, butter lettuce, spicy aioli &amp; arugula salad", :photo=>"BunWjCJCcAIEZEJ.jpg"}
+{:description=>"Crispy skin salmon White corn relish and melted heirloom Tomatoes PLFarms Baby greens PickledTorpedo Onions Lemon Vin", :photo=>"BujzM6DCAAAQw5b.jpg"}
+{:description=>"Pan Seared Salmon, Zuccini Purée, Sautéed White Corn, White Beech Mushrooms, Cipolini Onions, Mushroom Nage", :photo=>"BujyD9WCMAEfcTi.jpg"}
+{:description=>"", :photo=>"BuinJ4bCEAAevyJ.jpg"}
+{:description=>"Beef &amp; vegetable tart with onion, zucchini and corn, tender greens salad, sherry vin.", :photo=>"BuiOK53CYAABIjh.jpg"}
+{:description=>"Confit Duck Leg, Figs, Balsamic Onions &amp; Cabbage, Black Pepper Mascarpone, Crispy Polenta, Arugula", :photo=>"BuiN1N3CMAA9CbB.jpg"}
+{:description=>"burrata salad, figs, heirloom tomato, arugula, red onion, basil pesto", :photo=>"BuiMeWTCIAA1Z7c.jpg"}
+{:description=>"Venison parfait, black mission figs, pickled vegetables, frisee, shaved fennel, baby arugula, apple butter", :photo=>"BuiHX4qCQAAilpJ.jpg"}
+{:description=>"Side: heirloom tomatoes, blue cheese, balsamic reduction", :photo=>"BuiGcc_CIAA5cCv.jpg"}
+{:description=>"salad of house cured bacon, shoemaker farms peaches, goat cheese, pickled onion, hazelnut, tender greens", :photo=>"BuiGHExCYAEPd7C.jpg"}
+{:description=>"Big Salad of local spinach, house made bacon, local melon, picked Basil, shishito", :photo=>"BuepsI_CIAEq6oB.jpg"}
+{:description=>"Pork Flank Yakitori, Japanese Pickles, Shishito Peppers. Asian Green Salad, Sesame Ginger Dressing.", :photo=>"Buem-AvCUAIPVUB.jpg"}
+{:description=>"Grilled Yellowtail, Spaghetti Squash, Masilla Peppers, Grilled Corn, Baby Greens, Shaved Radish, Green Beans", :photo=>"BueiBJDCAAEhNLC.jpg"}
+{:description=>"Spaghettini Bolognese, Fallon Hills Beef, Heirloom Tomatoes, Parmesan, Fresh Herbs", :photo=>"Bueb_QMCUAEZqO0.jpg"}
+{:description=>"", :photo=>"BudpB2pCcAANu_E.jpg"}
+{:description=>"heirloom tomatoes, black beans, sweet corn, watermelon radish, queso fresco", :photo=>"BudMhRyCMAACLaB.jpg"}
+{:description=>"Big Salad of Pan-Seared Duck Breast with Peach Gastrique, Figs, Onion, Candied Hazelnuts &amp; Manchego Cheese", :photo=>"BudHddaCIAAOO7p.jpg"}
+{:description=>"grilled shrimp salad, heirloom tomatoes, masilla peppers, capers, pickled fennel, scallions, cilantro, arugula", :photo=>"Buc-A7YCMAAtB0C.jpg"}
+{:description=>"Putanesca Braised Pork Cheeks, Sweet Pepper Polenta PLF Arugula Shaved White Corn, Pickled Onion, Sherry Vin.", :photo=>"BuZfWR6IQAAFo5d.jpg"}
+{:description=>"shrimp and creamy gritz masilla peppers, Parmesan, house cured guanciale", :photo=>"BuZT2cRCYAA1h5o.jpg"}
+{:description=>"Loco Moco, Beef Bacon Patty, Dashi Gravy, Fried Egg, Spicy Greens, Heirloom Tomato, Sesame Vinaigrette", :photo=>"BuZOuIcCEAALw4T.jpg"}
+{:description=>"baba ganoush with watermelon radish, arugula and house made pita bread.", :photo=>"BuX_0cuCMAIaoGz.jpg"}
+{:description=>"special side, sweet corn and tarragon tuna cake. Arugula and sweet corn salad", :photo=>"BuX_duqCMAArbBV.jpg"}
+{:description=>"Soy Braised Pork Belly Sandwich, House Made Kimchee, Aioli, Tendergreens, Heirloom Tomato, Sesame Vinaigrette", :photo=>"BuX3FA1CIAEFeCF.jpg"}
+{:description=>"Special Side: Point Loma Farms Heirloom Tomatoes, Roasted Shishito Peppers &amp; Chili Lime Vinaigrette", :photo=>"BuXzCL1CYAAiGel.jpg"}
+{:description=>"Salad of Crispy Guanciale, Figs, Blue Cheese, Almonds, Tender Greens, Arugula, Sherry Vinaigrette", :photo=>"BuXyJGXCQAEsAa3.jpg"}
+{:description=>"Sausage Stuffed Turkey,Green Bean Casserole,Cream of Mushroom,Crispy Shallots,PL Farms Greens,Peaches,Cab Vin", :photo=>"BuUgxuWIAAI5nHD.jpg"}
+{:description=>"smoked duck ravioli, braised baby kale ragout of summer corn, mushroom and heirloom tomatoes Parmesan cheese.", :photo=>"BuUH29ZCAAAzLg2.jpg"}
+{:description=>"house made fettuccine, heirloom tomatoes, bacon, spicy mesilla peppers, garlic + Parmesan cream sauce", :photo=>"BuUE4eqCYAMdFsk.jpg"}
+{:description=>"Spicy Thai Chicken Curry, Summer Veggies, Basmati Rice, Cilantro, Scallions", :photo=>"BuUBZXGCYAApWPJ.jpg"}
+{:description=>"Big Salad of Baby Spinach, P.Balistreri Salami, Soft Boiled Duck Egg, Drunken Goat Cheese &amp; Candied Hazelnuts", :photo=>"BuS1zElIUAAglzX.jpg"}
+{:description=>"Crisp Zucchini cake with a heirloom tomato sauce &amp;a salad of frisee,shaved fennel,arugula,tomato,parm &amp;balsamic", :photo=>"BuSzUkrCEAEwuoi.jpg"}
+{:description=>"House Cured Bacon Salad, Roasted Spicy Masilla Peppers, Basil, Crispy Chicpeas, Parmesan, Kale, TG, Lemon Vin", :photo=>"BuSvR5LCQAAyVI3.jpg"}
+{:description=>"Salad of Grilled Yellowtail, Marinated Garbanzos, Heirloom Toms, Watermelon Radish, Corn, Lemon Vin.", :photo=>"BuStcGlIIAEl-BV.jpg"}
+{:description=>"Thai Coconut Curry Fresh Egg Noodles Tofu Eggplant Zucchini. Mizuna Tatsoi salad Carrots, Cilantro Lime Vin", :photo=>"BuPHEEMCEAExwx8.jpg"}
+{:description=>"House-Made Gnocchi, Arugula-Walnut Pesto, Heirloom Tomatoes, Kale, Parmesan, Marinated Olives, Garlic Vin.", :photo=>"BuPCAVKCUAAUtdb.jpg"}
+{:description=>"Falafel Salad, Cucumber Taziki Sauce,Spinach,Tomatoes, Cucumbers,Kalamata Olives,Shishito Peppers,Feta Cheese", :photo=>"BuNsP3yCcAERDwi.jpg"}
+{:description=>"smoked cubano,slow roasted porkshoulder,bacon,dijonaise,jalapeno,Swiss cheese.Salad of kale,arugula,parm,corn!", :photo=>"BuNqKgYCUAAjUzK.jpg"}
+{:description=>"salad of heirloom tomatoes, roasted shishito peppers, pickled onion, queso fresco, tender greens, arugula", :photo=>"BuNi6jVCcAE9VtH.jpg"}
+{:description=>"Roasted Pork Chop, Potato Gratin, Arugula, Fennel, Watermelon Radish, Lemon Vinaigrette", :photo=>"BuKACjGCUAAWI9h.jpg"}
+{:description=>"home made pot roast served with Yukon mash potatoes and a simple kale salad", :photo=>"BuJ-a0pCMAAlBNo.jpg"}
+{:description=>"slow braised beef potatoes au gratin arugula tomatoes fennel cucumbers sherry vinaigrette", :photo=>"BuJ4_1pIYAEqu_a.jpg"}
+{:description=>"Braised Beef, Cheese and Green Onion Croquets, Greens, Pickled Onions w/ Golden Balsamic Vin.", :photo=>"BuJ4Nq4IYAElXoa.jpg"}
+{:description=>"Harvest Salad of Tender Greens, Kale, Galia Melon, Plums, Grapes, Farro, Cranberries, Parm", :photo=>"BuIjcLhCAAABFO7.jpg"}
+{:description=>"Smoked Cubano panini, dijonaise,Swiss cheese,bread&amp;butter pickles..Arugula salad,tomato &amp;lemon vinaigrette", :photo=>"BuIf49DCIAETb9I.jpg"}
+{:description=>"Today's Lunch Special", :photo=>"BuIdgS7IEAAsV5G.jpg"}
+{:description=>"Grilled Scottish Salmon, Roasted Fingerling Potatoes, Green Beans, Leeks, Cauliflower Purée, Citrus Gremolata", :photo=>"BuE0bRkCAAAMtBq.jpg"}
+{:description=>"Grilled Local Yellowtail, Sweet Pepper &amp; Corn Rice, Pico De Gallo, Roasted Red Pepper Purée, Arugula, Tomatoes", :photo=>"BuEqTaoCcAAiASo.jpg"}
+{:description=>"Treated to a great meal courtesy of catering. Favorites: cheese sammie &amp; agave caramel bar w/ sea salt h…", :photo=>"BuAsuGpCcAEEHa-.jpg"}
+{:description=>"BLT sandwich, house smoked bacon,tomato,lettuce, avocado,garlic aioli &amp; salad of arugula &amp; balsamic vinaigrette", :photo=>"BuDTxFhCcAAsbSZ.jpg"}
+{:description=>"You haven't had fried chicken until having it", :photo=>"Bt_spK6IIAAMnSz.jpg"}
+{:description=>"We are in ❤️ with the new across from UCI", :photo=>"Bt_sorKIMAAU6t1.jpg"}
+{:description=>"Grilled filet of trout, spiced bulgur wheat, lemon basil relish", :photo=>"Bt_sHRSCEAAGrsS.jpg"}
+{:description=>"Yellowtail En Papillote Green Beans Potato Tomatoes Corn. Greens Cucumber Garbanzo Beans Golden Balsamic Vin.", :photo=>"Bt_phPWCUAAcGeT.jpg"}
+{:description=>"rosemary-mint flank steak roulade Israeli couscous &amp; tzatziki sauce spinach fennel eggplant lemon oregano vin.", :photo=>"Bt_oMsvIAAIXD-D.jpg"}
+{:description=>"special sides: Blt crostini and Mexican street corn!", :photo=>"Bt-S6vLIMAAhe0e.jpg"}
+{:description=>"Gonestraw farms smoked BBQ duck breast sandwich, wild kale, fingerling potato chips and garlic dressing!", :photo=>"Bt-Sg7qIUAIrMq5.jpg"}
+{:description=>"romesco tuna cakes, wax beans, watermelon radish, roasted tomato, tender greens", :photo=>"Bt-RlYUCIAAhUtx.jpg"}
+{:description=>"Heirloom tomato salad with house cured prosciutto!! aged 1 year..red onion,bell pepper,kale ,basil pesto", :photo=>"Bt-QHzUCcAA0ckx.jpg"}
+{:description=>"Special Side: Chilled Melon Soup w/ Creme Fraiche, Mint, Scallions &amp; Thai Chili", :photo=>"Bt-Ne1CCQAAQWF-.jpg"}
+{:description=>"Duck Leg Confit, Peaches, Caramelized Fennel, Shallots, Hazelnuts, Goat Cheese &amp; Sherry Vinaigrette", :photo=>"Bt-NKdmCYAARSl9.jpg"}
+{:description=>"Roasted Cuban Pork Sandwich, Green Tomato Ketchup, House Made Sriracha Aioli, Telera Roll", :photo=>"Bt-H6_KCAAAfvah.jpg"}
+{:description=>"P. Balistreri Prosciutto galia melon grapes hazelnuts manchego cheese point Loma farms arugula tender greens", :photo=>"Bt-GcPBCAAEru6x.jpg"}
+{:description=>"Braised beef tortellini with white corn purée, shishito peppers, braised fennel, and Anaheim chili crema.", :photo=>"Bt6v2vfCMAAiy-o.jpg"}
+{:description=>"Pan Roasted Duck Breast Warm Farro Salad, Plums, Pickled Shallots, Almonds, Parsley, Nectaplums", :photo=>"Bt5FLGKCUAER0Ht.jpg"}
+{:description=>"Heirloom Tomatoes &amp; Basil, Housemade Ricotta, Roasted Torpedo Onions, CA Balsamic Reduction", :photo=>"Bt47vUECQAApmI6.jpg"}
+{:description=>"Salad of House Cured Bacon, Green Harissa, Heirloom Tomatoes, Corn, Queso Fresco, Pickled Onion, Arugula, Cab", :photo=>"Bt42zEkCQAIn4Bo.jpg"}
+{:description=>"yellowtail &amp; galia melon ceviche with spicy aioli and wonton chips", :photo=>"Bt4zCC6CUAIU4S8.jpg"}
+{:description=>"9 Hr bolognese Sauce, served served over house made pappardelle pasta, arugula Parmesan cheese cherry tomatoes", :photo=>"Bt1mRtSCQAMeSiT.jpg"}
+{:description=>"meat and cheese platter: P. Balistreri Salami, housemade country pate, goat cheese, pickles and stonefruit", :photo=>"Bt1gpuVCcAA2kyK.jpg"}
+{:description=>"Slow Cooked Pork Cheeks Horseradish Gremolata Organic Greens Salad Nectaplumb Cabernet vinaigrette", :photo=>"Bt1dhBwCUAI55lo.jpg"}
+{:description=>"Panzenella Salad with Guanciale, poached duck egg, heirloom Tomatoes, blistered Shishito peppers and manchego cheese", :photo=>"Bt1aELTCQAAkNT-.jpg"}
+{:description=>"Moroccan Spiced Chicken Thighs, Bulgar Wheat Salad, Golden Raisin Compote, Baby Greens, Green Peppers &amp; Fennel", :photo=>"Bt1VFk_CcAAy6lg.jpg"}
+{:description=>"Plum Cheesecake tarts", :photo=>"Bt0nVMMCcAIKpmP.jpg"}
+{:description=>"Fig &amp; Walnut Strudel", :photo=>"Bt0nRRDCcAApo8G.jpg"}
+{:description=>"Cherry tomato &amp; goat cheese tart", :photo=>"Bt0nKsdCUAEMUbT.jpg"}
+{:description=>"Eric Oberholtzer, Co-Founder of and our awesome host We give their food two too!", :photo=>"Btz_V5DCYAAsM0f.jpg"}

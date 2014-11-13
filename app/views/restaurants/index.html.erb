@@ -1,0 +1,32 @@
+<div class="container">
+  <div class="row">
+    <div class="col-lg-10 col-md-offset-1">
+      <table class="table table-bordered" style='background-color:white;opacity:.7'>
+      <thead>
+        <tr>
+         <th>Name</th>
+         <th>City</th>
+         <th></th>
+         <th></th>
+        </tr>
+      </thead>
+
+      <tbody>
+      <%@restaurants.each do |r| %>
+         <tr>
+          <td><%=r.name%></td>
+          <td><%=r.city%></td>
+          <td><%= link_to 'more', restaurant_path(:location => r.city) %></td>
+          <td><%= link_to 'edit', edit_restaurant_path(:location => r.city) %></td>
+         </tr>
+      <%end%>
+      </tbody>
+      </table>
+    </div>
+  </div>
+</div>
+<div class="row">
+  <div class="col-md-2 col-md-offset-9">
+    <%= link_to 'New Location', new_restaurant_path %>
+  </div>
+</div>
